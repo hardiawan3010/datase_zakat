@@ -1,0 +1,677 @@
+ID,name,platform,category,tanggal,total_zakat,status,metode_pembayaran,Class
+2689,Dirga Imam Gozali Sumantri,Web,Zakat Penghasilan,2021-01-01 13:03:30,6000000.0,settlement,echannel,Zakat_user 
+2690,Putu Berly Calvina Izumi,Web,Zakat Penghasilan,2021-01-04 00:55:12,100000.0,settlement,bank_transfer,Zakat_user 
+2691,Pak Saeful Rokhman,WEB,Zakat Penghasilan,2021-01-04 08:43:51,300000.0,settlement,BCA - 1393004952,Zakat_user 
+2692,Vinanda Langgeng Kencana,WEB,Zakat Penghasilan,2021-01-04 08:50:12,1000000.0,settlement,BCA - 1393040002,Zakat_user 
+2693,Novias,WEB,Zakat Penghasilan,2021-01-04 09:41:49,55000.0,settlement,BCA - 1393040002,Zakat_user 
+2694,Aang,WEB,Zakat Penghasilan,2021-01-04 09:44:22,117500.0,settlement,BCA - 1393004952,Zakat_user 
+2695,Rumah,WEB,Zakat Penghasilan,2021-01-04 09:52:58,3000000.0,settlement,Mandiri - 1320505050535,Zakat_user 
+2696,Ibu Nova,WEB,Zakat Penghasilan,2021-01-04 09:56:26,80000.0,settlement,BCA - 1393004952,Zakat_user 
+2697,Arka Parandita,WEB,Zakat Penghasilan,2021-01-04 10:03:40,200000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+2698,Laras,Android,Zakat Penghasilan,2021-01-04 11:19:42,75000.0,settlement,gopay,Zakat_user 
+2699,Eli Laili Yanah,Web,Zakat Penghasilan,2021-01-04 15:09:43,200000.0,settlement,bank_transfer,Zakat_user 
+2700,salman,Web,Zakat Penghasilan,2021-01-04 22:40:31,2000000.0,settlement,echannel,Zakat_user 
+2703,Arif Fiyanto,WEB,Zakat Penghasilan,2021-01-05 14:31:37,500000.0,settlement,Mandiri - 1010012312318,Zakat_user 
+2705,Hamba Allah,Android,Zakat Penghasilan,2021-01-06 06:50:11,325000.0,settlement,bank_transfer,Zakat_user 
+2706,Eti Nirla Sari,WEB,Zakat Penghasilan,2021-01-06 09:26:33,300000.0,settlement,BCA - 1393040002,Zakat_user 
+2707,Heidi Nurihya Fachrani,Web,Zakat Harta,2021-01-06 11:13:41,100000.0,settlement,echannel,Zakat_user 
+2708,Erni Pratiwi,WEB,Zakat Penghasilan,2021-01-06 16:47:58,700000.0,settlement,BCA - 1393040002,Zakat_user 
+2709,Ahfiz Hanifalhuda A,PWA,Zakat Penghasilan,2021-01-07 12:18:54,100232.0,settlement,Transfer Bank Mandiri Syariah - 7273737377,Zakat_user 
+2711,PT NARWASTU MEDIKA,WEB,Zakat Penghasilan,2021-01-07 13:16:44,2000000.0,settlement,BCA - 1393040002,Zakat_user 
+2712,Debbie marshela,WEB,Zakat Penghasilan,2021-01-07 13:18:01,50000.0,settlement,BCA - 1393040002,Zakat_user 
+2714,Uchi,PWA,Zakat Emas,2021-01-07 16:54:51,1000000.0,settlement,echannel,Zakat_user 
+2716,Anggun Hidayatullah,Android,Zakat Penghasilan,2021-01-07 20:36:06,150000.0,settlement,echannel,Zakat_user 
+2717,Mesy Faridah Hendiyani,PWA,Zakat Penghasilan,2021-01-08 12:11:42,700000.0,settlement,bank_transfer,Zakat_user 
+2719,Muhammad Ghalib A,WEB,Zakat Penghasilan,2021-01-09 12:43:12,250000.0,settlement,Mandiri Syariah - 7273737377,Zakat_user 
+2720,Riskyana Wulandari dan Sumardani Kusmajaya,WEB,Zakat Penghasilan,2021-01-11 09:28:44,1200000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+2721,Tari dan Husen,WEB,Zakat Penghasilan,2021-01-12 15:45:02,1000000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+2735,Muhammad Zulfikar dan Nur Aini,WEB,Zakat Penghasilan,2021-01-15 09:26:46,250000.0,settlement,BCA - 1393040002,Zakat_user 
+2736,SAPRUDIN,WEB,Zakat Penghasilan,2021-01-15 13:56:08,300000.0,settlement,BCA - 1393040002,Zakat_user 
+2737,Ade Mimin Rohimin,WEB,Zakat Penghasilan,2021-01-15 14:33:16,55500.0,settlement,Muamalat - 4080300000,Zakat_user 
+2738,"Sudana & Astri Lestari,",WEB,Zakat Penghasilan,2021-01-16 15:57:41,500000.0,settlement,Mandiri - 1320020040060,Zakat_user 
+2740,hamba Allah,WEB,Zakat Penghasilan,2021-01-20 09:50:54,100000.0,settlement,BCA - 1393040002,Zakat_user 
+2741,Toni Setiana,WEB,Zakat Penghasilan,2021-01-21 09:18:02,250000.0,settlement,BCA - 1393040002,Zakat_user 
+2742,Dwinanda S bin Sulihno Hadi,WEB,Zakat Penghasilan,2021-01-22 09:02:57,150000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+2743,Fadillah,WEB,Zakat Penghasilan,2021-01-22 09:04:25,150000.0,settlement,BRI - 013701000379303,Zakat_user 
+2744,Lyssa Aprilia,PWA,Zakat Penghasilan,2021-01-23 08:48:22,250000.0,settlement,bank_transfer,Zakat_user 
+2745,karina nur rahmi lestari,Web,Zakat Penghasilan,2021-01-25 10:04:13,750000.0,settlement,bank_transfer,Zakat_user 
+2747,Dicko Ramadhan Alif,WEB,Zakat Penghasilan,2021-01-25 11:32:16,980000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+2748,Nadhila Taufiqa Amir,WEB,Zakat Penghasilan,2021-01-25 11:34:30,250000.0,settlement,Mandiri - 1010012312318,Zakat_user 
+2749,Monica Yuliana,WEB,Zakat Harta,2021-01-26 08:19:21,100000.0,settlement,BCA - 1393004952,Zakat_user 
+2751,Wahyu Fujiansyah,WEB,Zakat Penghasilan,2021-01-26 14:37:15,2000000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+2753,Harun S,WEB,Zakat Penghasilan,2021-01-27 09:25:15,550000.0,settlement,BCA - 1393040002,Zakat_user 
+2754,Tika Hariyanti,WEB,Zakat Penghasilan,2021-01-27 09:38:29,235000.0,settlement,BCA - 1393004952,Zakat_user 
+2756,derby fioricy,WEB,Zakat Penghasilan,2021-01-28 09:14:11,250000.0,settlement,BCA - 1393040002,Zakat_user 
+2757,Muhammad Iqbal,Web,Zakat Harta,2021-01-28 21:47:05,5201250.0,settlement,bank_transfer,Zakat_user 
+2758,Hamba Allah,Android,Zakat Penghasilan,2021-01-29 07:00:25,250000.0,settlement,bank_transfer,Zakat_user 
+2759,Ade Mimin Rohimin,WEB,Zakat Penghasilan,2021-01-29 10:43:12,86500.0,settlement,Muamalat - 4080400000,Zakat_user 
+2760,Shelly Santoso,Android,Zakat Penghasilan,2021-01-29 12:57:59,235000.0,settlement,bank_transfer,Zakat_user 
+2761,Dini Fitriani,WEB,Zakat Penghasilan,2021-01-29 13:39:53,300000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+2762,Ali Mulyana,Web,Zakat Penghasilan,2021-01-29 14:33:23,500663.0,settlement,Transfer Bank Mandiri - 1320505050519,Zakat_user 
+2765,Imam subarkah,WEB,Zakat Penghasilan,2021-01-30 13:17:34,300000.0,settlement,Mandiri Syariah - 7273737377,Zakat_user 
+2766,Tagor Lubis,WEB,Zakat Penghasilan,2021-01-30 13:30:14,300000.0,settlement,BCA - 1393040002,Zakat_user 
+2768,Amalia,WEB,Zakat Penghasilan,2021-01-31 09:10:36,200000.0,settlement,Muamalat - 4080400000,Zakat_user 
+2770,Robi Ade Putra,WEB,Zakat Penghasilan,2021-01-31 12:33:01,700000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+2771,Diyah Tantri F,WEB,Zakat Penghasilan,2021-01-31 19:49:46,375000.0,settlement,Mandiri - 1320020040060,Zakat_user 
+2772,Nurhalimah Sari Lubis,WEB,Zakat Penghasilan,2021-02-01 10:29:40,40000.0,settlement,BCA - 1393040002,Zakat_user 
+2773,didi,WEB,Zakat Penghasilan,2021-02-01 11:19:53,300000.0,settlement,BCA - 1393040002,Zakat_user 
+2801,Regi Komariah,WEB,Zakat Penghasilan,2021-02-01 17:14:54,100000.0,settlement,BCA - 1393040002,Zakat_user 
+2809,Bpk.Mulyono,WEB,Zakat Penghasilan,2021-02-02 09:38:37,100000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+2810,Novias,WEB,Zakat Penghasilan,2021-02-02 13:50:01,55000.0,settlement,BCA - 1393040002,Zakat_user 
+2811,Erni Pratiwi,WEB,Zakat Penghasilan,2021-02-02 15:23:58,500000.0,settlement,BCA - 1393040002,Zakat_user 
+2812,haribowo lesmono,WEB,Zakat Penghasilan,2021-02-02 16:28:41,500000.0,settlement,BCA - 1393040002,Zakat_user 
+2813,Pak Saeful Rokhman,WEB,Zakat Penghasilan,2021-02-03 09:09:38,300000.0,settlement,BCA - 1393004952,Zakat_user 
+2814,Heidi Nurihya Fachrani,Web,Zakat Harta,2021-02-03 10:51:11,100000.0,settlement,bank_transfer,Zakat_user 
+2815,Rifqi Amirullah,Web,Zakat Penghasilan,2021-02-03 12:22:24,150000.0,settlement,bank_transfer,Zakat_user 
+2817,Tiffani Rizkia Elsyam,Web,Zakat Penghasilan,2021-02-03 16:31:01,81000.0,settlement,bank_transfer,Zakat_user 
+2818,rifky fadila,WEB,Zakat Penghasilan,2021-02-04 16:33:13,150000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+2819,Hamba Allah,WEB,Zakat Penghasilan,2021-02-05 10:21:33,100000.0,settlement,Mandiri Syariah - 7273737377,Zakat_user 
+2821,Zalfaputri,WEB,Zakat Penghasilan,2021-02-05 13:12:16,200000.0,settlement,BCA - 1393040002,Zakat_user 
+2822,Hamba Allah,PWA,Zakat Penghasilan,2021-02-05 14:42:53,100000.0,settlement,echannel,Zakat_user 
+2823,Hayati,WEB,Zakat Penghasilan,2021-02-05 17:38:09,100000.0,settlement,BCA - 1393040002,Zakat_user 
+2824,Muhammad Ghalib A,WEB,Zakat Penghasilan,2021-02-05 21:27:21,250000.0,settlement,Mandiri Syariah - 7273737377,Zakat_user 
+2825,Adry Genialdi,Android,Zakat Penghasilan,2021-02-06 05:24:59,100000.0,settlement,echannel,Zakat_user 
+2826,Anggun Hidayatullah,Android,Zakat Penghasilan,2021-02-06 18:48:21,150000.0,settlement,echannel,Zakat_user 
+2831,Hamba Allah,WEB,Zakat Penghasilan,2021-02-08 16:43:46,165000.0,settlement,Mandiri - 1280006235151,Zakat_user 
+2834,tasnia,WEB,Zakat Penghasilan,2021-02-10 10:02:25,375000.0,settlement,BCA - 1393004952,Zakat_user 
+2835,Dino Yustiawan,WEB,Zakat Penghasilan,2021-02-10 12:45:20,175000.0,settlement,BCA - 1393040002,Zakat_user 
+2836,CV Mekar Jaya Shadik,WEB,Zakat Penghasilan,2021-02-12 09:28:57,80000.0,settlement,BCA - 1393004952,Zakat_user 
+2837,Karinda Wardani Puspitasari,PWA,Zakat Penghasilan,2021-02-12 21:13:33,500000.0,settlement,bank_transfer,Zakat_user 
+2839,muhammad,Web,Zakat Penghasilan,2021-02-13 19:26:23,11625000.0,settlement,echannel,Zakat_user 
+2840,Tari,WEB,Zakat Penghasilan,2021-02-15 08:47:17,1000000.0,settlement,BCA - 1393040002,Zakat_user 
+2841,Septyawati Permata Sari,WEB,Zakat Penghasilan,2021-02-15 08:50:31,50000.0,settlement,BCA - 1393040002,Zakat_user 
+2842,Arka Parandita,WEB,Zakat Penghasilan,2021-02-15 10:41:51,200000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+2843,nadine,WEB,Zakat Penghasilan,2021-02-16 11:55:52,350000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+2844,astrianirika33,WEB,Zakat Penghasilan,2021-02-17 11:18:35,150000.0,settlement,BCA - 1393040002,Zakat_user 
+2846,Amirudin,WEB,Zakat Penghasilan,2021-02-21 12:24:19,100000.0,settlement,Mandiri - 1320020040060,Zakat_user 
+2847,Ramadhany,WEB,Zakat Penghasilan,2021-02-22 08:57:36,293000.0,settlement,BCA - 1393040002,Zakat_user 
+2848,Vicky andriansyah,WEB,Zakat Penghasilan,2021-02-23 08:40:15,3000000.0,settlement,BCA - 1393040002,Zakat_user 
+2849,Fadillah,WEB,Zakat Penghasilan,2021-02-23 09:14:00,150000.0,settlement,BRI - 013701000379303,Zakat_user 
+2850,Toni Setiana,WEB,Zakat Harta,2021-02-23 11:37:41,250000.0,settlement,Mandiri Syariah - 7273737377,Zakat_user 
+2851,Mas Eram Panca,WEB,Zakat Harta,2021-02-24 08:53:22,500000.0,settlement,BCA - 1393004952,Zakat_user 
+2852,Hamba Allah,Web,Zakat Penghasilan,2021-02-24 09:35:26,4.0,PAID,DANA,Zakat_user 
+2855,Resta Agung Susilo,Web,Zakat Penghasilan,2021-02-24 10:10:04,300000.0,settlement,bank_transfer,Zakat_user 
+2856,SUPRIADHI bin Nasir,WEB,Zakat Penghasilan,2021-02-24 13:08:55,500000.0,settlement,BCA - 1393040002,Zakat_user 
+2861,Dino Yustiawan,WEB,Zakat Penghasilan,2021-02-25 08:32:45,175000.0,settlement,BCA - 1393040002,Zakat_user 
+2864,Dicko Ramadhan Alif,WEB,Zakat Penghasilan,2021-02-25 10:29:35,913000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+2865,yatnosutrisno,WEB,Zakat Penghasilan,2021-02-25 11:55:54,100000.0,settlement,BCA - 1393040002,Zakat_user 
+2867,Nadhila Taufiqa Amir,WEB,Zakat Penghasilan,2021-02-25 16:04:45,250000.0,settlement,Mandiri - 1010012312318,Zakat_user 
+2868,Wahyu Fujiansyah,WEB,Zakat Penghasilan,2021-02-25 17:10:57,2000000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+2870,Hayati,WEB,Zakat Penghasilan,2021-02-26 09:27:54,100000.0,settlement,BCA - 1393040002,Zakat_user 
+2878,Febya Achmad Rizky,WEB,Zakat Penghasilan,2021-02-26 13:26:55,300000.0,settlement,BCA - 1393004952,Zakat_user 
+2879,Veny Febriani,WEB,Zakat Penghasilan,2021-02-26 16:04:47,200000.0,settlement,Mandiri - 1320505050543,Zakat_user 
+2880,Imam subarkah,WEB,Zakat Penghasilan,2021-02-26 16:07:50,300000.0,settlement,Mandiri Syariah - 7273737377,Zakat_user 
+2887,sulivan fitriati,Web,Zakat Penghasilan,2021-02-27 14:41:11,372450.0,settlement,BRI,Zakat_user 
+2891,derby fioricy,WEB,Zakat Penghasilan,2021-02-27 17:37:23,325000.0,settlement,BCA - 1393040002,Zakat_user 
+2892,derby fioricy,WEB,Zakat Penghasilan,2021-02-27 17:39:57,365000.0,settlement,BCA - 1393040002,Zakat_user 
+2899,Yudiwah yudi,WEB,Zakat Penghasilan,2021-02-28 15:28:08,1000000.0,settlement,BCA - 1393040002,Zakat_user 
+2900,Azizah ekarini,WEB,Zakat Penghasilan,2021-02-28 15:44:28,200000.0,settlement,BCA - 1393040002,Zakat_user 
+2901,Yudha Eko Prayitno,WEB,Zakat Penghasilan,2021-02-28 15:48:28,550000.0,settlement,Mandiri - 1320020040060,Zakat_user 
+2936,ratu,Android,Zakat Penghasilan,2021-03-02 10:34:00,150000.0,settlement,PERMATA,Zakat_user 
+2937,Akbar,Android,Zakat Penghasilan,2021-03-03 10:06:14,147850.0,settlement,bank_transfer,Zakat_user 
+2938,Heidi Nurihya Fachrani,Web,Zakat Harta,2021-03-03 16:15:32,100000.0,settlement,bank_transfer,Zakat_user 
+2943,Eli Laili Yanah,Web,Zakat Penghasilan,2021-03-05 10:45:20,200000.0,settlement,bank_transfer,Zakat_user 
+2980,Qusthan A. H. Firdaus,Web,Zakat Penghasilan,2021-03-09 21:11:27,110458.0,settlement,bank_transfer,Zakat_user 
+2984,Rusmawati Ruslan,PWA,Zakat Penghasilan,2021-03-20 06:23:33,5000000.0,settlement,echannel,Zakat_user 
+2985,Developer,Android,Zakat Penghasilan,2021-03-23 23:10:20,1.0,COMPLETED,OVO,Zakat_user 
+2986,Developer,Android,Zakat Penghasilan,2021-03-23 23:19:53,1.0,COMPLETED,OVO,Zakat_user 
+2988,karina nur rahmi lestari,Web,Zakat Penghasilan,2021-03-25 14:58:52,350000.0,settlement,bank_transfer,Zakat_user 
+2989,Hamba Allah,Android,Zakat Penghasilan,2021-03-27 00:42:00,250000.0,COMPLETED,OVO,Zakat_user 
+2990,Rico,PWA,Zakat Penghasilan,2021-03-27 10:37:01,111200.0,settlement,bank_transfer,Zakat_user 
+2994,Sri anisa,PWA,Zakat Penghasilan,2021-03-31 09:56:53,200000.0,settlement,bank_transfer,Zakat_user 
+2995,Endar Yanti,Web,Zakat Penghasilan,2021-03-31 10:26:23,500000.0,settlement,gopay,Zakat_user 
+2996,Eli Laili Yanah,Web,Zakat Penghasilan,2021-04-01 10:37:22,185000.0,settlement,bank_transfer,Zakat_user 
+2997,Muhamad Akbar Mulyono,PWA,Zakat Penghasilan,2021-04-01 17:21:18,200000.0,settlement,echannel,Zakat_user 
+2998,Fitri Nilasari,PWA,Zakat Penghasilan,2021-04-02 19:17:37,160000.0,settlement,bank_transfer,Zakat_user 
+3002,Hamba Allah,PWA,Zakat Penghasilan,2021-04-05 08:30:50,50000.0,PAID,DANA,Zakat_user 
+3003,Rifqi Amirullah,Web,Zakat Penghasilan,2021-04-05 14:24:03,150000.0,settlement,bank_transfer,Zakat_user 
+3008,Anggun Hidayatullah,Android,Zakat Penghasilan,2021-04-07 11:29:09,300000.0,COMPLETED,OVO,Zakat_user 
+3039,Hamba Allah,Android,Zakat Penghasilan,2021-04-16 12:35:24,100000.0,settlement,bank_transfer,Zakat_user 
+3046,Karinda Wardani Puspitasari,Web,Zakat Penghasilan,2021-04-19 04:30:50,500000.0,settlement,BNI,Zakat_user 
+3050,ARIeF,Web,Zakat Emas,2021-04-22 15:18:39,100000.0,settlement,MANDIRI,Zakat_user 
+3051,Mesy Faridah Hendiyani,Web,Zakat Penghasilan,2021-04-23 09:02:14,300000.0,settlement,BNI,Zakat_user 
+3052,Dina Olivia,Web,Zakat Penghasilan,2021-04-23 11:59:46,703750.0,settlement,MANDIRI,Zakat_user 
+3054,Oki,Web Mobile,Zakat Penghasilan,2021-04-29 02:53:35,362500.0,settlement,MANDIRI,Zakat_user 
+3055,Hamba Allah,Android,Zakat Penghasilan,2021-04-29 10:04:00,250000.0,settlement,BRI,Zakat_user 
+3057,Murni,Web Mobile,Zakat Penghasilan,2021-04-29 20:29:14,100000.0,settlement,MANDIRI,Zakat_user 
+3063,Fitri Nilasari,Web Mobile,Zakat Penghasilan,2021-04-30 07:40:09,170000.0,settlement,bank_transfer,Zakat_user 
+3064,Dina Olivia,Web Mobile,Zakat Penghasilan,2021-04-30 10:23:27,407500.0,settlement,MANDIRI,Zakat_user 
+3066,ASTI RAMADHANI GADIS,Android,Zakat Penghasilan,2021-05-01 05:14:37,675000.0,settlement,MANDIRI,Zakat_user 
+3067,Arsakha Devandra Dzuhriansyah,Web Mobile,Zakat Fitrah,2021-05-01 16:35:13,50000.0,settlement,bank_transfer,Zakat_user 
+3068,Arsakha Devandra Dzuhriansyah,Web Mobile,Zakat Fitrah,2021-05-01 16:39:22,50000.0,settlement,bank_transfer,Zakat_user 
+3075,Shelly Santoso,Android,Zakat Penghasilan,2021-05-03 19:26:17,178000.0,settlement,bank_transfer,Zakat_user 
+3091,chentya endah,,Zakat Penghasilan,2021-05-05 18:27:31,700000.0,settlement,echannel,Zakat_user 
+3108,Aris munandar,Web Mobile,Zakat Penghasilan,2021-05-07 16:16:51,50000.0,settlement,MANDIRI,Zakat_user 
+3112,Arief Yulianto,Web Mobile,Zakat Penghasilan,2021-05-07 20:34:45,350000.0,settlement,MANDIRI,Zakat_user 
+3121,Anggun Hidayatullah,Android,Zakat Penghasilan,2021-05-08 11:22:59,300000.0,settlement,MANDIRI,Zakat_user 
+3122,khoharuddin,Web,Zakat Harta,2021-05-08 12:31:26,1500371.0,settlement,Transfer Bank Mandiri Syariah - 7273737377,Zakat_user 
+3130,Shelly Santoso,Android,Zakat Penghasilan,2021-05-09 12:07:10,95000.0,settlement,bank_transfer,Zakat_user 
+3134,Frida ferdani putri,Web Mobile,Zakat Harta,2021-05-09 13:18:24,2500000.0,settlement,MANDIRI,Zakat_user 
+3141,Prasojo,Web Mobile,Zakat Fitrah,2021-05-09 18:32:13,75000.0,settlement,MANDIRI,Zakat_user 
+3143,Dita Astiani,Web Mobile,Zakat Fitrah,2021-05-09 18:46:14,100000.0,settlement,bank_transfer,Zakat_user 
+3146,Kanaya kaliharum,Web Mobile,Zakat Fitrah,2021-05-09 18:52:12,50000.0,settlement,bank_transfer,Zakat_user 
+3147,Kanaya kaliharum,Web Mobile,Zakat Fitrah,2021-05-09 18:55:53,50000.0,settlement,bank_transfer,Zakat_user 
+3148,Kanaya kaliharum,Web Mobile,Zakat Fitrah,2021-05-09 18:58:59,50000.0,settlement,bank_transfer,Zakat_user 
+3149,Kanaya kaliharum,Web Mobile,Zakat Fitrah,2021-05-09 19:07:13,50000.0,settlement,bank_transfer,Zakat_user 
+3151,Fakhrul Taufik,Web,Zakat Emas,2021-05-09 19:56:29,2000000.0,settlement,bank_transfer,Zakat_user 
+3193,nur chalimah,Web Mobile,Zakat Harta,2021-05-10 23:27:40,500168.0,settlement,Transfer Bank Mandiri Syariah - 7273737377,Zakat_user 
+3229,Mustika Retno Arsyanur,Web Mobile,Zakat Harta,2021-05-12 13:07:45,500000.0,settlement,BRI,Zakat_user 
+3366,sahib,Web,Zakat Fitrah,2021-05-12 21:09:19,1000000.0,settlement,bank_transfer,Zakat_user 
+3406,IMAM EFENDI,Web Mobile,Zakat Fitrah,2021-05-12 22:05:23,60000.0,settlement,gopay,Zakat_user 
+3534,Nurrul Ahmad Hidayat Wardiman,Web Mobile,Zakat Fitrah,2021-05-13 04:57:27,500091.0,settlement,Transfer Bank Mandiri Syariah - 7273737377,Zakat_user 
+3669,Dina Olivia,Web,Zakat Penghasilan,2021-05-24 13:54:35,393750.0,settlement,MANDIRI,Zakat_user 
+3674,karina nur rahmi lestari,Web,Zakat Penghasilan,2021-05-26 12:49:41,350000.0,settlement,bank_transfer,Zakat_user 
+3675,muhammad,Web,Zakat Penghasilan,2021-05-26 19:15:40,10450000.0,settlement,credit_card,Zakat_user 
+3684,Kustia lyfia,Web Mobile,Zakat Penghasilan,2021-05-29 08:37:33,150000.0,settlement,bank_transfer,Zakat_user 
+3685,Hamba Allah,Android,Zakat Penghasilan,2021-05-29 09:06:08,250000.0,settlement,BRI,Zakat_user 
+3687,ASTI RAMADHANI GADIS,Android,Zakat Penghasilan,2021-05-30 19:46:45,675000.0,settlement,MANDIRI,Zakat_user 
+3688,Hamba Allah,Web Mobile,Zakat Penghasilan,2021-06-01 10:31:38,100000.0,settlement,bank_transfer,Zakat_user 
+3691,Eli Laili Yanah,Web,Zakat Penghasilan,2021-06-02 11:04:53,200000.0,settlement,bank_transfer,Zakat_user 
+3698,Anggun Hidayatullah,Android,Zakat Penghasilan,2021-06-14 14:29:18,165000.0,settlement,MANDIRI,Zakat_user 
+3699,chentya endah,Android,Zakat Penghasilan,2021-06-17 20:11:47,175000.0,settlement,MANDIRI,Zakat_user 
+3700,dwi Purwandari,Web Mobile,Zakat Penghasilan,2021-06-18 01:37:29,200000.0,settlement,bank_transfer,Zakat_user 
+3704,Rizky Fadilah,Web,Zakat Penghasilan,2021-06-25 12:41:28,800000.0,settlement,bank_transfer,Zakat_user 
+3705,Herlambang Rizqi Wahyu K,Android,Zakat Penghasilan,2021-06-26 08:54:04,125000.0,settlement,BNI,Zakat_user 
+3706,Mustika Retno Arsyanur,Web Mobile,Zakat Penghasilan,2021-06-27 15:44:48,250000.0,settlement,MANDIRI,Zakat_user 
+3711,salman,Web,Zakat Penghasilan,2021-06-29 13:18:59,2000000.0,settlement,MANDIRI,Zakat_user 
+3712,Hamba Allah,Android,Zakat Penghasilan,2021-06-29 16:57:32,250000.0,settlement,BRI,Zakat_user 
+3713,Didiet Arie Darmawan dan Indira Ayu Maharani,Web Mobile,Zakat Penghasilan,2021-06-30 06:57:41,145000.0,settlement,bank_transfer,Zakat_user 
+3716,Eli Laili Yanah,Web,Zakat Penghasilan,2021-07-01 11:23:06,200000.0,settlement,bank_transfer,Zakat_user 
+3718,Shelly Santoso,Android,Zakat Penghasilan,2021-07-02 14:04:58,175000.0,settlement,bank_transfer,Zakat_user 
+3719,Aditya Christianto,Web Mobile,Zakat Fitrah,2021-07-02 20:37:16,50000.0,settlement,bank_transfer,Zakat_user 
+3721,muhammad,Web,Zakat Penghasilan,2021-07-04 14:53:31,10360000.0,settlement,credit_card,Zakat_user 
+3722,Thanti Sit Khodijah,Web,Zakat Penghasilan,2021-07-04 16:53:05,250000.0,settlement,bank_transfer,Zakat_user 
+3723,Anggun Hidayatullah,Android,Zakat Penghasilan,2021-07-05 07:11:53,200000.0,settlement,MANDIRI,Zakat_user 
+3724,chentya endah,Android,Zakat Penghasilan,2021-07-06 14:09:17,175000.0,settlement,MANDIRI,Zakat_user 
+3727,karina nur rahmi lestari,Web,Zakat Penghasilan,2021-07-23 11:51:15,360000.0,settlement,bank_transfer,Zakat_user 
+3729,Herlambang Rizqi Wahyu K,Android,Zakat Penghasilan,2021-07-26 14:16:39,125000.0,settlement,BNI,Zakat_user 
+3731,Dwi Purwanti,Web Mobile,Zakat Penghasilan,2021-07-28 18:34:00,650000.0,settlement,BNI,Zakat_user 
+3732,Dwi Purwanti,Web Mobile,Zakat Penghasilan,2021-07-28 18:37:43,800000.0,settlement,BNI,Zakat_user 
+3733,Hamba Allah,Android,Zakat Penghasilan,2021-07-29 06:46:58,250000.0,settlement,BRI,Zakat_user 
+3734,Heru Yulianto,Android,Zakat Penghasilan,2021-07-30 05:42:22,211000.0,settlement,bank_transfer,Zakat_user 
+3735,Sudarmawan,Web Mobile,Zakat Penghasilan,2021-07-31 11:42:13,150000.0,settlement,bank_transfer,Zakat_user 
+3736,Mustika Retno Arsyanur,Web Mobile,Zakat Penghasilan,2021-08-02 16:23:28,250000.0,settlement,BRI,Zakat_user 
+3737,Eli Laili Yanah,Web,Zakat Penghasilan,2021-08-04 13:28:52,200000.0,settlement,bank_transfer,Zakat_user 
+3738,Teguh utomo,WEB,Zakat Penghasilan,2021-08-06 09:07:44,500000.0,settlement,BCA - 1393040002,Zakat_user 
+3739,Dini Fitriani,WEB,Zakat Penghasilan,2021-08-06 09:21:27,250000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+3740,Anna Octavia,WEB,Zakat Penghasilan,2021-08-06 10:05:10,120000.0,settlement,BCA - 1393040002,Zakat_user 
+3742,Nining,WEB,Zakat Penghasilan,2021-08-06 12:13:45,500000.0,settlement,Muamalat - 4080200000,Zakat_user 
+3743,didi,WEB,Zakat Penghasilan,2021-08-06 14:59:45,700000.0,settlement,BCA - 1393040002,Zakat_user 
+3744,Diliana,WEB,Zakat Penghasilan,2021-08-07 09:51:30,1500000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+3745,Tika,Android,Zakat Penghasilan,2021-08-08 17:27:13,50000.0,settlement,bank_transfer,Zakat_user 
+3746,chentya endah,Android,Zakat Penghasilan,2021-08-10 20:47:04,175000.0,settlement,MANDIRI,Zakat_user 
+3747,Heriyadi,WEB,Zakat Penghasilan,2021-08-11 07:51:10,150000.0,settlement,BCA - 1393040002,Zakat_user 
+3748,Frida ferdani putri,Web Mobile,Zakat Penghasilan,2021-08-11 18:48:33,500000.0,settlement,MANDIRI,Zakat_user 
+3749,shifa,WEB,Zakat Penghasilan,2021-08-12 08:14:04,194874.0,settlement,BCA - 1393040002,Zakat_user 
+3752,Anggun Hidayatullah,Android,Zakat Penghasilan,2021-08-12 18:43:39,200000.0,settlement,MANDIRI,Zakat_user 
+3753,Idzni,Android,Zakat Penghasilan,2021-08-13 07:54:56,200000.0,settlement,bank_transfer,Zakat_user 
+3757,Aulia M Rahman,WEB,Zakat Penghasilan,2021-08-17 11:17:21,750000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+3758,Fadillah,WEB,Zakat Penghasilan,2021-08-20 08:47:39,150000.0,settlement,BRI - 013701000379303,Zakat_user 
+3759,astrianirika33,WEB,Zakat Penghasilan,2021-08-20 14:56:06,100000.0,settlement,BCA - 1393040002,Zakat_user 
+3760,Wahyu Fujiansyah,WEB,Zakat Penghasilan,2021-08-25 16:03:27,1500000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+3775,yenny,WEB,Zakat Penghasilan,2021-08-27 13:23:08,300000.0,settlement,BCA - 1393004952,Zakat_user 
+3776,Dwi Purwanti,Web Mobile,Zakat Penghasilan,2021-08-27 19:11:21,326600.0,settlement,BNI,Zakat_user 
+3777,derby fioricy,WEB,Zakat Penghasilan,2021-08-28 08:50:41,405000.0,settlement,BCA - 1393040002,Zakat_user 
+3781,Agisha Riyani Nurhalimah,Web Mobile,Zakat Penghasilan,2021-08-28 10:03:12,145000.0,settlement,bank_transfer,Zakat_user 
+3782,Ardita Widyasari,WEB,Zakat Penghasilan,2021-08-28 10:18:53,165000.0,settlement,BCA - 1393040002,Zakat_user 
+3783,Yuhana robina,WEB,Zakat Penghasilan,2021-08-31 11:48:00,2000000.0,settlement,BCA - 1393004952,Zakat_user 
+3784,Helena Shinta,WEB,Zakat Penghasilan,2021-08-31 14:31:25,500000.0,settlement,Mandiri - 1010012312318,Zakat_user 
+3785,Melinda D A,WEB,Zakat Penghasilan,2021-09-01 08:30:09,1000000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+3786,Eli Laili Yanah,Web,Zakat Penghasilan,2021-09-01 12:49:19,200000.0,settlement,bank_transfer,Zakat_user 
+3787,Mustika Retno Arsyanur,Web Mobile,Zakat Penghasilan,2021-09-02 16:50:35,250000.0,settlement,BRI,Zakat_user 
+3788,Azizah Ekarini,WEB,Zakat Penghasilan,2021-09-03 11:48:04,200000.0,settlement,BCA - 1393040002,Zakat_user 
+3789,Nining,WEB,Zakat Harta,2021-09-03 13:42:50,500000.0,settlement,Mandiri Syariah - 7277777775,Zakat_user 
+3790,Candrawati (Mama Renjiro),WEB,Zakat Harta,2021-09-03 16:44:49,300000.0,settlement,Mandiri - 1320020040060,Zakat_user 
+3792,Rifqi Amirullah,Web Mobile,Zakat Penghasilan,2021-09-05 00:48:36,200000.0,settlement,BNI,Zakat_user 
+3793,Ratih supriatin apriliani,WEB,Zakat Penghasilan,2021-09-05 08:46:27,1254773.0,settlement,Mandiri - 1320020040060,Zakat_user 
+3794,hamba Allah,WEB,Zakat Penghasilan,2021-09-07 12:56:17,692500.0,settlement,BCA - 1393040002,Zakat_user 
+3796,Rizky Rosalia,WEB,Zakat Penghasilan,2021-09-10 13:57:48,300000.0,settlement,Mandiri - 1320020040060,Zakat_user 
+3798,Zalfaputri,WEB,Zakat Harta,2021-09-11 10:33:34,200000.0,settlement,BCA - 1393040002,Zakat_user 
+3801,M. Jalaluddin Fuad,WEB,Zakat Harta,2021-09-13 08:37:40,500000.0,settlement,Mandiri - 1320020040060,Zakat_user 
+3802,Nur Eko Priyo,Web,Zakat Penghasilan,2021-09-17 05:44:14,150000.0,settlement,MANDIRI,Zakat_user 
+3803,Fadillah,WEB,Zakat Penghasilan,2021-09-22 08:25:42,150000.0,settlement,BRI - 013701000379303,Zakat_user 
+3804,Dewi Suryani,Android,Zakat Penghasilan,2021-09-24 06:45:27,100000.0,settlement,MANDIRI,Zakat_user 
+3805,Noer cahya indarti,WEB,Zakat Harta,2021-09-24 08:22:32,300000.0,settlement,BCA - 1393004952,Zakat_user 
+3806,Tami Fioricy,WEB,Zakat Penghasilan,2021-09-24 08:52:04,360000.0,settlement,BCA - 1393040002,Zakat_user 
+3808,Wahyu Fujiansyah,WEB,Zakat Penghasilan,2021-09-24 13:49:44,1500000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+3809,Nur Eko Priyo,Web,Zakat Penghasilan,2021-09-24 14:34:35,300000.0,settlement,MANDIRI,Zakat_user 
+3810,Tedy,WEB,Zakat Harta,2021-09-24 14:36:30,150000.0,settlement,BCA - 1393040002,Zakat_user 
+3811,Dini Fitriani,WEB,Zakat Penghasilan,2021-09-26 08:32:09,250000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+3812,hamba Allah,WEB,Zakat Harta,2021-09-27 10:34:27,105000.0,settlement,BCA - 1393040002,Zakat_user 
+3819,Anisa Septiana,Web Mobile,Zakat Penghasilan,2021-09-27 19:56:14,132500.0,settlement,MANDIRI,Zakat_user 
+3820,Tami Fioricy,WEB,Zakat Fitrah,2021-09-28 08:18:21,403000.0,settlement,BCA - 1393040002,Zakat_user 
+3822,Agisha Riyani Nurhalimah,Web Mobile,Zakat Penghasilan,2021-09-29 07:55:43,145000.0,settlement,bank_transfer,Zakat_user 
+3823,Vera,Web,Zakat Penghasilan,2021-09-29 18:35:02,110000.0,settlement,BNI,Zakat_user 
+3824,kukuh pujo harseno,WEB,Zakat Harta,2021-09-30 08:48:09,400000.0,settlement,BCA - 1393004952,Zakat_user 
+3825,Decichi BR,Web Mobile,Zakat Penghasilan,2021-10-01 11:23:22,161350.0,settlement,BNI,Zakat_user 
+3826,Eli Laili Yanah,Web,Zakat Penghasilan,2021-10-01 16:03:01,200000.0,settlement,bank_transfer,Zakat_user 
+3827,Hamba Allah,WEB,Zakat Penghasilan,2021-10-02 16:09:23,300000.0,settlement,Mandiri - 1280006235151,Zakat_user 
+3829,zulfahmi sstv,WEB,Zakat Harta,2021-10-04 09:17:46,500000.0,settlement,BCA - 1393004952,Zakat_user 
+3830,yenny,WEB,Zakat Penghasilan,2021-10-05 14:45:00,300000.0,settlement,BCA - 1393004952,Zakat_user 
+3831,Melinda D A,WEB,Zakat Harta,2021-10-05 16:35:08,1000000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+3832,Nur Eko Priyo,Web,Zakat Penghasilan,2021-10-06 05:55:25,300000.0,settlement,MANDIRI,Zakat_user 
+3834,Umy Handayani,WEB,Zakat Penghasilan,2021-10-07 08:33:11,600000.0,settlement,Mandiri Syariah - 7277777775,Zakat_user 
+3837,Debby MSD,WEB,Zakat Penghasilan,2021-10-08 08:31:33,300000.0,settlement,BCA - 1393040002,Zakat_user 
+3838,Ima Gusnandar,WEB,Zakat Harta,2021-10-09 08:05:29,400000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+3839,chentya endah,Android,Zakat Penghasilan,2021-10-10 19:53:09,300000.0,settlement,MANDIRI,Zakat_user 
+3840,Heriyadi,WEB,Zakat Penghasilan,2021-10-11 16:51:27,150000.0,settlement,BCA - 1393040002,Zakat_user 
+3844,Nanin,WEB,Zakat Harta,2021-10-14 13:38:10,250000.0,settlement,BCA - 1393040002,Zakat_user 
+3845,Rini Anggoro,WEB,Zakat Harta,2021-10-15 08:18:14,500000.0,settlement,BCA - 1393004952,Zakat_user 
+3846,Candrawati (Mama Renjiro),WEB,Zakat Harta,2021-10-15 08:25:06,300000.0,settlement,Mandiri - 1320020040060,Zakat_user 
+3847,Panca,WEB,Zakat Harta,2021-10-15 08:39:10,400000.0,settlement,BCA - 1393004952,Zakat_user 
+3848,Yuyun wahyuni,WEB,Zakat Penghasilan,2021-10-16 14:49:01,10127000.0,settlement,BNI - 152010118,Zakat_user 
+3850,Aditia Pramadiaksa,WEB,Zakat Penghasilan,2021-10-18 08:16:59,250000.0,settlement,BCA - 1393004952,Zakat_user 
+3851,rahmanto b,WEB,Zakat Harta,2021-10-19 09:28:36,1350000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+3852,Ricky K. Margono,WEB,Zakat Harta,2021-10-19 13:11:35,500000.0,settlement,BCA - 1393004952,Zakat_user 
+3853,Himawan,WEB,Zakat Penghasilan,2021-10-19 13:45:09,10000.0,settlement,Mandiri - 1320020040060,Zakat_user 
+3854,Himawan,WEB,Zakat Penghasilan,2021-10-19 13:48:32,30000.0,settlement,Mandiri - 1320020040060,Zakat_user 
+3861,Adil Permata Sidik,CFD v2,Zakat Penghasilan,2021-10-19 15:56:17,1000.0,settlement,MANDIRI,Zakat_user 
+3863,Adil Permata Sidik,CFD v2,Zakat Penghasilan,2021-10-19 16:25:35,1000.0,settlement,gopay,Zakat_user 
+3880,Fadillah,WEB,Zakat Penghasilan,2021-10-22 08:15:41,150000.0,settlement,BRI - 013701000379303,Zakat_user 
+3881,Yanie - Pondok Mantau,WEB,Zakat Harta,2021-10-22 14:46:26,500000.0,settlement,Mandiri - 1490010260646,Zakat_user 
+3884,Bima Said,Web,Zakat Penghasilan,2021-10-24 13:48:43,1001450.0,settlement,MANDIRI,Zakat_user 
+3887,derby fioricy,WEB,Zakat Penghasilan,2021-10-25 08:48:02,550000.0,settlement,BCA - 1393040002,Zakat_user 
+3888,karina nur rahmi lestari,Web,Zakat Penghasilan,2021-10-25 12:14:31,260000.0,settlement,bank_transfer,Zakat_user 
+3889,Libonit Poetry Mayangsari,WEB,Zakat Penghasilan,2021-10-25 15:43:31,260000.0,settlement,BCA - 1393040002,Zakat_user 
+3891,Ardita Widyasari,WEB,Zakat Penghasilan,2021-10-26 13:16:17,170000.0,settlement,BCA - 1393040002,Zakat_user 
+3895,Dini Fitriani,WEB,Zakat Penghasilan,2021-10-27 13:02:16,300000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+3898,Wijayanto,WEB,Zakat Penghasilan,2021-10-27 16:54:40,350000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+3900,Akbar,Android,Zakat Penghasilan,2021-10-27 17:01:24,47000.0,settlement,BRI,Zakat_user 
+3901,didi,WEB,Zakat Penghasilan,2021-10-28 08:25:48,300000.0,settlement,BCA - 1393040002,Zakat_user 
+3905,yenny,WEB,Zakat Penghasilan,2021-10-28 16:32:39,300000.0,settlement,BCA - 1393004952,Zakat_user 
+3909,Azizah Ekarini,WEB,Zakat Penghasilan,2021-10-29 10:05:22,200000.0,settlement,BCA - 1393040002,Zakat_user 
+3910,Ariyan Agung,WEB,Zakat Penghasilan,2021-10-29 14:05:11,400000.0,settlement,BCA - 1393040002,Zakat_user 
+3914,Sudana,WEB,Zakat Penghasilan,2021-10-31 14:43:42,1000000.0,settlement,BCA - 1393040002,Zakat_user 
+3915,Melinda D A,WEB,Zakat Harta,2021-11-01 08:07:58,1000000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+3923,Hamba Allah,CFD v2,Zakat Penghasilan,2021-11-02 07:02:34,300000.0,settlement,BNI,Zakat_user 
+3924,Nursidik Cahyono,WEB,Zakat Penghasilan,2021-11-02 08:12:52,350000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+3934,Akbar,Android,Zakat Penghasilan,2021-11-02 10:03:26,150000.0,settlement,bank_transfer,Zakat_user 
+3938,Debby MSD,WEB,Zakat Penghasilan,2021-11-03 08:28:53,400000.0,settlement,BCA - 1393040002,Zakat_user 
+3939,Mala,WEB,Zakat Penghasilan,2021-11-03 12:57:25,250000.0,settlement,Mandiri - 1320020040060,Zakat_user 
+3940,Rahmawati Maulidya,CFD v2,Zakat Penghasilan,2021-11-04 09:20:54,50000.0,settlement,bank_transfer,Zakat_user 
+3941,Sudarmawan,CFD v2,Zakat Penghasilan,2021-11-05 00:20:37,150000.0,settlement,bank_transfer,Zakat_user 
+3942,Twpool,CFD v2,Zakat Penghasilan,2021-11-05 04:16:04,200000.0,settlement,bank_transfer,Zakat_user 
+3951,Yanie - Pondok Mantau,WEB,Zakat Harta,2021-11-05 10:39:18,300000.0,settlement,Mandiri - 1490010260646,Zakat_user 
+3954,Hamba Allah,CFD v2,Zakat Penghasilan,2021-11-05 16:28:21,115000.0,settlement,MANDIRI,Zakat_user 
+3956,Ahmad Fakhri,WEB,Zakat Penghasilan,2021-11-06 08:53:02,400000.0,settlement,Mandiri - 1320020040060,Zakat_user 
+3957,Hamba Allah,CFD v2,Zakat Penghasilan,2021-11-06 13:17:51,225000.0,settlement,MANDIRI,Zakat_user 
+3958,Budi Muktinarko,WEB,Zakat Harta,2021-11-07 11:08:08,200000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+3959,Heru Yulianto,Android,Zakat Penghasilan,2021-11-08 15:28:33,222000.0,settlement,bank_transfer,Zakat_user 
+3960,Bima Said,CFD v2,Zakat Penghasilan,2021-11-09 20:46:01,645462.0,settlement,MANDIRI,Zakat_user 
+3962,tasnia,WEB,Zakat Penghasilan,2021-11-10 11:14:08,500000.0,settlement,BCA - 1393004952,Zakat_user 
+3965,Twpool,CFD v2,Zakat Penghasilan,2021-11-10 23:23:26,300000.0,settlement,bank_transfer,Zakat_user 
+3966,Nining,WEB,Zakat Harta,2021-11-11 08:12:39,500000.0,settlement,Mandiri Syariah - 7277777775,Zakat_user 
+3967,Himawan,WEB,Zakat Penghasilan,2021-11-11 13:52:05,156275.0,settlement,Mandiri - 1320020040060,Zakat_user 
+3968,Dias Darmawan,WEB,Zakat Harta,2021-11-12 10:55:46,200000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+3969,Nike Pudjiwati,WEB,Zakat Harta,2021-11-12 12:37:23,100000.0,settlement,BCA - 1393040002,Zakat_user 
+3970,muhammad,CFD v2,Zakat Penghasilan,2021-11-14 14:52:43,10370000.0,settlement,CREDITCARD,Zakat_user 
+3973,Zulfadli Zizar,Web Mobile,Zakat Penghasilan,2021-11-16 06:22:04,300149.0,settlement,Transfer Bank Mandiri Syariah - 7273737377,Zakat_user 
+3975,Twpool,CFD v2,Zakat Penghasilan,2021-11-18 00:04:44,250000.0,settlement,bank_transfer,Zakat_user 
+3977,Yudi Rizki Kurniawan,WEB,Zakat Harta,2021-11-18 16:39:41,250000.0,settlement,BCA - 1393040002,Zakat_user 
+3978,Diliana,WEB,Zakat Penghasilan,2021-11-19 08:08:57,500000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+3979,Shakti Agustono Rahardjo,WEB,Zakat Harta,2021-11-19 08:37:28,500000.0,settlement,Mandiri Syariah - 7277777775,Zakat_user 
+3980,Surti Wigati,WEB,Zakat Harta,2021-11-19 13:26:34,1500000.0,settlement,BCA - 1393000001,Zakat_user 
+3982,Fadillah,WEB,Zakat Penghasilan,2021-11-22 16:44:57,150000.0,settlement,BRI - 013701000379303,Zakat_user 
+3984,Vera Junita,CFD v2,Zakat Penghasilan,2021-11-24 16:19:43,380275.0,settlement,Transfer Bank Mandiri Syariah - 7273737377,Zakat_user 
+3989,chentya endah,Android,Zakat Penghasilan,2021-11-25 13:28:27,175000.0,settlement,MANDIRI,Zakat_user 
+3991,Farah Saladini,WEB,Zakat Harta,2021-11-26 08:38:42,250000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+3992,Shakti Agustono Rahardjo,WEB,Zakat Harta,2021-11-26 08:45:27,500000.0,settlement,Mandiri Syariah - 7277777775,Zakat_user 
+3995,Irsyad Berry,WEB,Zakat Penghasilan,2021-11-26 11:51:20,750000.0,settlement,BCA - 1393040002,Zakat_user 
+3997,Azizah Ekarini,WEB,Zakat Penghasilan,2021-11-26 14:22:27,200000.0,settlement,BCA - 1393040002,Zakat_user 
+3998,syarif,Android,Zakat Penghasilan,2021-11-26 14:29:53,180000.0,settlement,BNI,Zakat_user 
+4005,Debby MSD,WEB,Zakat Penghasilan,2021-11-27 15:03:37,350000.0,settlement,BCA - 1393040002,Zakat_user 
+4006,Wijayanto,WEB,Zakat Penghasilan,2021-11-27 15:45:21,350000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+4010,Resta Agung Susilo,CFD v2,Zakat Penghasilan,2021-11-29 07:20:23,400000.0,settlement,bank_transfer,Zakat_user 
+4012,Tagor Lubis,WEB,Zakat Penghasilan,2021-11-29 11:44:10,300000.0,settlement,BCA - 1393040002,Zakat_user 
+4013,Dini Fitriani,WEB,Zakat Penghasilan,2021-11-29 13:40:57,300000.0,settlement,Mandiri - 1320505050519,Zakat_user 
+4021,Melinda D A,WEB,Zakat Penghasilan,2021-12-01 08:23:02,1200000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+4022,zulfahmi sstv,WEB,Zakat Harta,2021-12-01 08:30:12,250000.0,settlement,BCA - 1393004952,Zakat_user 
+4023,Kukuh,WEB,Zakat Penghasilan,2021-12-01 08:36:19,400000.0,settlement,BCA - 1393040002,Zakat_user 
+4024,Himawan,WEB,Zakat Penghasilan,2021-12-01 14:49:18,60000.0,settlement,Mandiri - 1320020040060,Zakat_user 
+4025,Hilmawan,WEB,Zakat Penghasilan,2021-12-01 14:50:04,19000.0,settlement,Mandiri - 1320020040060,Zakat_user 
+4026,Arief Yulianto,CFD v2,Zakat Penghasilan,2021-12-02 05:37:24,335000.0,settlement,MANDIRI,Zakat_user 
+4027,Arief Yulianto,CFD v2,Zakat Penghasilan,2021-12-02 12:26:17,335000.0,settlement,MANDIRI,Zakat_user 
+4031,Fara Kirana,WEB,Zakat Harta,2021-12-03 08:58:22,500000.0,settlement,BCA - 1393004952,Zakat_user 
+4032,Libonit Poetry Mayangsari,WEB,Zakat Harta,2021-12-03 12:58:54,250000.0,settlement,BCA - 1393040002,Zakat_user 
+4034,Nike Pudjiwati,WEB,Zakat Penghasilan,2021-12-04 14:04:49,100000.0,settlement,BCA - 1393040002,Zakat_user 
+4035,Helena Shinta,WEB,Zakat Penghasilan,2021-12-05 09:24:00,500000.0,settlement,Mandiri - 1010012312318,Zakat_user 
+4036,Ima Gusnandar,WEB,Zakat Harta,2021-12-05 10:43:14,400000.0,settlement,Mandiri - 1320006531140,Zakat_user 
+2702,Muhammad Ramadhan Alkausar,Web,Zakat Penghasilan,2021-01-05 08:41:38,150000.0,settlement,gopay,zakat_guest 
+2704,Muhamad Haris Yahya,PWA,Zakat Penghasilan,2021-01-06 06:22:17,100000.0,settlement,bank_transfer,zakat_guest 
+2710,Karunia Erldi Abraham,Web,Zakat Penghasilan,2021-01-07 12:24:06,1070000.0,settlement,bank_transfer,zakat_guest 
+2718,Irma Suryati,PWA,Zakat Penghasilan,2021-01-09 09:14:30,1000000.0,settlement,echannel,zakat_guest 
+2739,Arriman Maulana Makmoen,Web,Zakat Penghasilan,2021-01-18 23:07:35,5000000.0,settlement,bank_transfer,zakat_guest 
+2755,andi,Web,Zakat Penghasilan,2021-01-27 12:58:02,200000.0,settlement,bank_transfer,zakat_guest 
+2763,Hestia Purnamasari,Web,Zakat Penghasilan,2021-01-29 15:20:35,120000.0,settlement,bank_transfer,zakat_guest 
+2820,Dina Rusmala dan Hidayat Abdillah,Web,Zakat Penghasilan,2021-02-05 11:10:39,1150000.0,settlement,echannel,zakat_guest 
+2845,Farah Dhiya,PWA,Zakat Penghasilan,2021-02-21 09:43:46,400000.0,settlement,bank_transfer,zakat_guest 
+2862,SADNO,Web,Zakat Penghasilan,2021-02-25 08:40:13,930000.0,settlement,bank_transfer,zakat_guest 
+2909,Safril,Web,Zakat Harta,2021-03-01 11:49:27,5000000.0,settlement,bank_transfer,zakat_guest 
+2911,Dinar Swastika Ardias,Android,Zakat Penghasilan,2021-03-02 05:55:47,260000.0,settlement,bank_transfer,zakat_guest 
+2981,Erie Febriyanto,PWA,Zakat Penghasilan,2021-03-10 12:28:33,185000.0,settlement,bank_transfer,zakat_guest 
+2982,Teguh utomo,PWA,Zakat Penghasilan,2021-03-17 10:13:37,500000.0,settlement,bank_transfer,zakat_guest 
+2987,Dina Rusmala dan Hidayat Abdillah,Web,Zakat Penghasilan,2021-03-24 10:08:19,1000000.0,settlement,echannel,zakat_guest 
+2991,salman,Web,Zakat Penghasilan,2021-03-28 05:50:21,1500614.0,settlement,Transfer Bank Mandiri - 1320505050519,zakat_guest 
+2992,Nadya Salsabila,PWA,Zakat Penghasilan,2021-03-30 01:00:00,262500.0,settlement,bank_transfer,zakat_guest 
+2993,SADNO,Web,Zakat Penghasilan,2021-03-30 10:37:52,700000.0,settlement,bank_transfer,zakat_guest 
+3004,Siti zhuryati,PWA,Zakat Penghasilan,2021-04-05 22:15:51,170000.0,settlement,bank_transfer,zakat_guest 
+3013,Endry tri wandoyo,PWA,Zakat Penghasilan,2021-04-12 09:58:58,500000.0,settlement,bank_transfer,zakat_guest 
+3045,Gustin Kartika Rachman,Web,Zakat Penghasilan,2021-04-17 10:51:02,400000.0,settlement,MANDIRI,zakat_guest 
+3053,ari wiliyanto,Web,Zakat Penghasilan,2021-04-23 14:38:53,200000.0,settlement,BRI,zakat_guest 
+3056,Muchlis,Web Mobile,Zakat Penghasilan,2021-04-29 12:17:32,125000.0,settlement,bank_transfer,zakat_guest 
+3059,Lila Krisnanto,Web Mobile,Zakat Penghasilan,2021-04-29 23:15:17,400000.0,settlement,gopay,zakat_guest 
+3060,Arien Nova Sari,Web Mobile,Zakat Penghasilan,2021-04-30 05:17:40,350009.0,settlement,bank_transfer,zakat_guest 
+3061,denny,Web Mobile,Zakat Penghasilan,2021-04-30 05:38:51,250000.0,settlement,MANDIRI,zakat_guest 
+3069,ridho arisyadi,Web,Zakat Harta,2021-05-03 10:29:21,100000.0,settlement,MANDIRI,zakat_guest 
+3071,Ria fauzia,Web Mobile,Zakat Fitrah,2021-05-03 16:39:14,40000.0,settlement,gopay,zakat_guest 
+3073,Retno Darmastuti,Web Mobile,Zakat Penghasilan,2021-05-03 18:24:33,392607.0,settlement,Transfer Bank Mandiri Syariah - 7273737377,zakat_guest 
+3076,Gayatri Indriswari,Web,Zakat Harta,2021-05-04 21:38:34,2000000.0,settlement,MANDIRI,zakat_guest 
+3078,M BAHRUL ULUM,Web Mobile,Zakat Fitrah,2021-05-04 22:05:12,30000.0,settlement,bank_transfer,zakat_guest 
+3080,HADIYONO,Web Mobile,Zakat Fitrah,2021-05-05 06:43:25,200000.0,settlement,bank_transfer,zakat_guest 
+3081,Jessica Antoinette,Web Mobile,Zakat Penghasilan,2021-05-05 09:51:40,10000.0,settlement,bank_transfer,zakat_guest 
+3082,Jessica Antoinette,Web Mobile,Zakat Fitrah,2021-05-05 10:01:21,25000.0,settlement,bank_transfer,zakat_guest 
+3083,Citra kartika yudiarti,Web Mobile,Zakat Fitrah,2021-05-05 11:25:43,65000.0,settlement,BNI,zakat_guest 
+3084,FADHAL MUHAMAD,Web,Zakat Fitrah,2021-05-05 12:34:25,105000.0,settlement,credit_card,zakat_guest 
+3085,Febrian Rahmana Putra,Web,Zakat Penghasilan,2021-05-05 12:47:23,180000.0,settlement,MANDIRI,zakat_guest 
+3089,Selma Legia,Web,Zakat Penghasilan,2021-05-05 14:03:07,107500.0,settlement,MANDIRI,zakat_guest 
+3092,Viranda Rinantri,Web Mobile,Zakat Penghasilan,2021-05-06 11:36:27,61375.0,settlement,bank_transfer,zakat_guest 
+3094,Rina Anggraini,Web,Zakat Harta,2021-05-06 12:49:32,2000000.0,settlement,bank_transfer,zakat_guest 
+3095,Indira Inggi Aswijati,Web Mobile,Zakat Penghasilan,2021-05-06 18:54:37,500000.0,settlement,BRI,zakat_guest 
+3096,Dini,Web Mobile,Zakat Harta,2021-05-06 21:37:34,1000833.0,settlement,Transfer Bank Mandiri Syariah - 7273737377,zakat_guest 
+3101,Gita Wulandari,Web Mobile,Zakat Penghasilan,2021-05-07 10:16:10,100000.0,settlement,bank_transfer,zakat_guest 
+3103,Nuraida,Web,Zakat Fitrah,2021-05-07 11:27:36,100000.0,settlement,gopay,zakat_guest 
+3109,Yulianti,Web Mobile,Zakat Fitrah,2021-05-07 17:10:25,50000.0,settlement,bank_transfer,zakat_guest 
+3110,Dewi susanti,Web Mobile,Zakat Fitrah,2021-05-07 18:06:53,50000.0,settlement,BNI,zakat_guest 
+3111,Rini Hastuti,Web Mobile,Zakat Penghasilan,2021-05-07 19:39:35,700000.0,settlement,MANDIRI,zakat_guest 
+3114,Vitus adhi prabowo,Web Mobile,Zakat Fitrah,2021-05-07 21:27:36,65000.0,settlement,bank_transfer,zakat_guest 
+3115,Grop Lailatul Qodr RSUD Pasar Minggu & Friends,Web Mobile,Zakat Penghasilan,2021-05-07 22:29:03,800941.0,settlement,Transfer Bank Mandiri Syariah - 7273737377,zakat_guest 
+3116,Salim,Web Mobile,Zakat Fitrah,2021-05-08 03:10:59,100000.0,settlement,BRI,zakat_guest 
+3119,Eko Lilin Karlina,Web Mobile,Zakat Fitrah,2021-05-08 08:10:21,245000.0,settlement,bank_transfer,zakat_guest 
+3120,WHT,Web Mobile,Zakat Fitrah,2021-05-08 08:29:07,275000.0,settlement,bank_transfer,zakat_guest 
+3125,Irman triyadi,Web,Zakat Fitrah,2021-05-09 04:19:23,40000.0,settlement,bank_transfer,zakat_guest 
+3126,Sonya,Web,Zakat Fitrah,2021-05-09 04:30:53,40000.0,settlement,bank_transfer,zakat_guest 
+3127,Shiva Riana,Web,Zakat Fitrah,2021-05-09 04:34:59,40000.0,settlement,bank_transfer,zakat_guest 
+3128,Septian Winu Vinsa,Web,Zakat Fitrah,2021-05-09 04:40:13,40000.0,settlement,bank_transfer,zakat_guest 
+3129,Listiana Puji Mulyani,Web Mobile,Zakat Fitrah,2021-05-09 11:44:25,40000.0,settlement,MANDIRI,zakat_guest 
+3131,Dewi Dwi Ratnasari,Web Mobile,Zakat Fitrah,2021-05-09 12:52:55,80000.0,settlement,bank_transfer,zakat_guest 
+3137,Amri Putradjaja M Taher,Web Mobile,Zakat Fitrah,2021-05-09 13:43:12,500000.0,settlement,BNI,zakat_guest 
+3144,Azka naufal,Web Mobile,Zakat Fitrah,2021-05-09 18:47:51,25000.0,settlement,bank_transfer,zakat_guest 
+3150,Tiara Ayu Pratiwi,Web Mobile,Zakat Fitrah,2021-05-09 19:54:04,120000.0,settlement,bank_transfer,zakat_guest 
+3155,Yudha wastu,Web Mobile,Zakat Fitrah,2021-05-09 21:15:10,35000.0,settlement,bank_transfer,zakat_guest 
+3157,M fauzi akbar,Web Mobile,Zakat Fitrah,2021-05-09 21:39:04,40000.0,settlement,bank_transfer,zakat_guest 
+3158,M fauzi akbar,Web Mobile,Zakat Fitrah,2021-05-09 21:44:03,40000.0,settlement,bank_transfer,zakat_guest 
+3159,M fauzi akbar,Web Mobile,Zakat Fitrah,2021-05-09 21:47:22,40000.0,settlement,bank_transfer,zakat_guest 
+3160,M fauzi akbar,Web Mobile,Zakat Fitrah,2021-05-09 21:49:09,40000.0,settlement,bank_transfer,zakat_guest 
+3162,Danang Perkasa,Web Mobile,Zakat Fitrah,2021-05-09 22:59:36,175000.0,settlement,bank_transfer,zakat_guest 
+3163,Jihan Aira Aryagantari,Web Mobile,Zakat Fitrah,2021-05-10 00:06:05,35000.0,settlement,bank_transfer,zakat_guest 
+3164,Cahyo Ariosanjoto,Web Mobile,Zakat Fitrah,2021-05-10 00:09:38,35000.0,settlement,bank_transfer,zakat_guest 
+3165,Jihan Aira Aryagantari,Web Mobile,Zakat Fitrah,2021-05-10 00:11:22,35000.0,settlement,bank_transfer,zakat_guest 
+3170,Agus Setyo Bhayangkara,Web Mobile,Zakat Fitrah,2021-05-10 03:39:38,99000.0,settlement,bank_transfer,zakat_guest 
+3172,Arinta permata,Web Mobile,Zakat Penghasilan,2021-05-10 05:14:20,250000.0,settlement,bank_transfer,zakat_guest 
+3175,Muhammad Ridwan,Web,Zakat Fitrah,2021-05-10 08:13:51,22500.0,settlement,gopay,zakat_guest 
+3176,Syaiful Sofyan,Web Mobile,Zakat Fitrah,2021-05-10 09:35:36,250000.0,settlement,bank_transfer,zakat_guest 
+3179,Nadia Putri Asrini Jenie,Web,Zakat Harta,2021-05-10 10:38:31,9100000.0,settlement,MANDIRI,zakat_guest 
+3180,Hayrudin,Web Mobile,Zakat Fitrah,2021-05-10 11:02:42,40817.0,settlement,Transfer Bank Mandiri Syariah - 7273737377,zakat_guest 
+3181,Dea Listya Sari,Web Mobile,Zakat Emas,2021-05-10 11:07:41,1000000.0,settlement,MANDIRI,zakat_guest 
+3185,Meisya Diana,Web,Zakat Fitrah,2021-05-10 11:38:56,100000.0,settlement,BNI,zakat_guest 
+3188,Aldino Yulianto,Web Mobile,Zakat Fitrah,2021-05-10 12:26:41,250000.0,settlement,MANDIRI,zakat_guest 
+3189,DIKDIK PERMADI,Web,Zakat Fitrah,2021-05-10 12:39:04,200000.0,settlement,bank_transfer,zakat_guest 
+3190,Andi Julia Cakrawala,Web,Zakat Penghasilan,2021-05-10 12:52:07,5000000.0,settlement,MANDIRI,zakat_guest 
+3192,Asri,Web Mobile,Zakat Fitrah,2021-05-10 21:58:49,100000.0,settlement,bank_transfer,zakat_guest 
+3195,Sarah Andjani,Web Mobile,Zakat Fitrah,2021-05-11 05:43:09,150000.0,settlement,bank_transfer,zakat_guest 
+3200,Muhamad Soleh,Web Mobile,Zakat Fitrah,2021-05-11 15:19:40,50000.0,settlement,bank_transfer,zakat_guest 
+3201,Syamsul Arifin,Web Mobile,Zakat Harta,2021-05-11 17:40:50,300000.0,settlement,MANDIRI,zakat_guest 
+3202,Agus Wibowo,Web Mobile,Zakat Fitrah,2021-05-11 19:43:15,40000.0,settlement,bank_transfer,zakat_guest 
+3209,Rania Jasmindhia,Web,Zakat Fitrah,2021-05-12 02:07:15,40000.0,settlement,bank_transfer,zakat_guest 
+3211,Sidqi Syahid Nawawi,Web Mobile,Zakat Fitrah,2021-05-12 04:17:53,28473.0,settlement,Transfer Bank Mandiri Syariah - 7273737377,zakat_guest 
+3219,Albetha Sekar Toraldy,Web Mobile,Zakat Fitrah,2021-05-12 08:06:41,30000.0,settlement,bank_transfer,zakat_guest 
+3220,Fazri Aditya Pramadya,Web,Zakat Harta,2021-05-12 09:05:43,450000.0,settlement,bank_transfer,zakat_guest 
+3221,Pudjo Semedi,Web,Zakat Fitrah,2021-05-12 09:24:27,50000.0,settlement,bank_transfer,zakat_guest 
+3222,Yulia Handiani,Web,Zakat Fitrah,2021-05-12 09:27:55,50000.0,settlement,bank_transfer,zakat_guest 
+3223,Kinanti Aqila Zahra,Web,Zakat Fitrah,2021-05-12 09:30:41,50000.0,settlement,bank_transfer,zakat_guest 
+3225,Astuti,Web Mobile,Zakat Fitrah,2021-05-12 10:43:37,35000.0,settlement,bank_transfer,zakat_guest 
+3227,Endang Setiabudi,Web Mobile,Zakat Fitrah,2021-05-12 12:29:17,50000.0,settlement,BRI,zakat_guest 
+3228,Endang Setiabudi,Web Mobile,Zakat Fitrah,2021-05-12 12:32:12,50000.0,settlement,BRI,zakat_guest 
+3230,Murtini Agung Ardana,Web,Zakat Fitrah,2021-05-12 13:13:41,93750.0,settlement,BRI,zakat_guest 
+3234,Harryosa Bin Buslim,Web Mobile,Zakat Fitrah,2021-05-12 14:07:58,35000.0,settlement,BRI,zakat_guest 
+3244,Elfandy Yunus,Web Mobile,Zakat Fitrah,2021-05-12 14:42:37,30000.0,settlement,PERMATA,zakat_guest 
+3245,Ari Anggoro Musa PG,Web,Zakat Fitrah,2021-05-12 14:42:44,400000.0,settlement,bank_transfer,zakat_guest 
+3246,Wulandari,Web Mobile,Zakat Fitrah,2021-05-12 14:43:16,120000.0,settlement,bank_transfer,zakat_guest 
+3250,SUMARLIN,Web Mobile,Zakat Fitrah,2021-05-12 14:50:59,85500.0,settlement,BRI,zakat_guest 
+3251,DAHLIA FITRIYANI EFFENDY,Web,Zakat Fitrah,2021-05-12 15:12:23,262500.0,settlement,bank_transfer,zakat_guest 
+3252,wendy andrytiarandy,Web Mobile,Zakat Fitrah,2021-05-12 15:52:33,100000.0,settlement,bank_transfer,zakat_guest 
+3253,Diah perwita sari binti Muchrodji,Web Mobile,Zakat Harta,2021-05-12 16:13:35,10000000.0,settlement,bank_transfer,zakat_guest 
+3255,AGUNG DWI HARYANTO,Web,Zakat Fitrah,2021-05-12 16:18:16,240000.0,settlement,bank_transfer,zakat_guest 
+3258,Karina Nur Fauzia,Web Mobile,Zakat Fitrah,2021-05-12 16:33:24,50000.0,settlement,MANDIRI,zakat_guest 
+3269,MOCHAMMAD BAGUS ANDRIANSYAH,Web Mobile,Zakat Fitrah,2021-05-12 16:42:02,30000.0,settlement,gopay,zakat_guest 
+3270,Azka raffasya alvarendra,Web Mobile,Zakat Fitrah,2021-05-12 16:46:34,30000.0,settlement,bank_transfer,zakat_guest 
+3272,AMIRUL ARIF,Web Mobile,Zakat Fitrah,2021-05-12 16:48:07,37500.0,settlement,MANDIRI,zakat_guest 
+3273,Azka raffasya alvarendra,Web Mobile,Zakat Fitrah,2021-05-12 16:48:16,30000.0,settlement,bank_transfer,zakat_guest 
+3274,Ahdalena,Web Mobile,Zakat Fitrah,2021-05-12 16:48:37,40000.0,settlement,BNI,zakat_guest 
+3275,Azka raffasya alvarendra,Web Mobile,Zakat Fitrah,2021-05-12 16:49:41,30000.0,settlement,bank_transfer,zakat_guest 
+3288,Atisah Fauziah,Web Mobile,Zakat Fitrah,2021-05-12 17:59:27,40000.0,settlement,BRI,zakat_guest 
+3291,Aditya Pamungkas,Web Mobile,Zakat Fitrah,2021-05-12 18:22:05,30000.0,settlement,gopay,zakat_guest 
+3292,yohanes wisnu nurwenda oki dwi putri satrio bumi,Web Mobile,Zakat Fitrah,2021-05-12 18:28:03,150000.0,settlement,MANDIRI,zakat_guest 
+3293,Sasadara Addin,Web Mobile,Zakat Fitrah,2021-05-12 18:28:57,30000.0,settlement,gopay,zakat_guest 
+3295,Leny Handayani,Web Mobile,Zakat Fitrah,2021-05-12 18:40:30,50000.0,settlement,bank_transfer,zakat_guest 
+3297,putri minartiningtyas,Web Mobile,Zakat Fitrah,2021-05-12 19:21:54,40000.0,settlement,bank_transfer,zakat_guest 
+3299,dania firdausi,Web Mobile,Zakat Fitrah,2021-05-12 19:22:20,40000.0,settlement,MANDIRI,zakat_guest 
+3301,Ahmad Restu,Web Mobile,Zakat Penghasilan,2021-05-12 19:29:27,200000.0,settlement,bank_transfer,zakat_guest 
+3305,Aryanahardi,Web Mobile,Zakat Fitrah,2021-05-12 19:44:59,32500.0,settlement,BNI,zakat_guest 
+3306,Wawan saprudin,Web Mobile,Zakat Fitrah,2021-05-12 19:45:11,30000.0,settlement,bank_transfer,zakat_guest 
+3308,3 Hamba Allah,Web Mobile,Zakat Fitrah,2021-05-12 19:48:56,105000.0,settlement,bank_transfer,zakat_guest 
+3315,dhino ramadhan,Web Mobile,Zakat Fitrah,2021-05-12 19:54:46,28750.0,settlement,bank_transfer,zakat_guest 
+3316,Rizki budiman,Web Mobile,Zakat Fitrah,2021-05-12 19:56:56,100000.0,settlement,bank_transfer,zakat_guest 
+3318,Hari widjajanto,Web Mobile,Zakat Fitrah,2021-05-12 19:58:27,45000.0,settlement,BRI,zakat_guest 
+3319,Satria dharma putra,Web Mobile,Zakat Fitrah,2021-05-12 20:00:56,32500.0,settlement,bank_transfer,zakat_guest 
+3325,Jovy Hary Nugroho,Web Mobile,Zakat Fitrah,2021-05-12 20:13:36,35000.0,settlement,bank_transfer,zakat_guest 
+3327,Achmed Asfan,Web Mobile,Zakat Fitrah,2021-05-12 20:15:27,150000.0,settlement,gopay,zakat_guest 
+3328,Riki Gunawan,Web Mobile,Zakat Fitrah,2021-05-12 20:16:20,50000.0,settlement,bank_transfer,zakat_guest 
+3329,Indi indrayani,Web Mobile,Zakat Fitrah,2021-05-12 20:20:08,50000.0,settlement,bank_transfer,zakat_guest 
+3330,Riska rina utami wulandari bintang,Web Mobile,Zakat Fitrah,2021-05-12 20:20:49,30000.0,settlement,bank_transfer,zakat_guest 
+3331,Ghina Silmi,Web Mobile,Zakat Fitrah,2021-05-12 20:22:27,37500.0,settlement,bank_transfer,zakat_guest 
+3333,Fajar Winner Riatmo,Web Mobile,Zakat Fitrah,2021-05-12 20:25:09,75000.0,settlement,bank_transfer,zakat_guest 
+3336,Bambang Triono,Web Mobile,Zakat Fitrah,2021-05-12 20:27:44,35000.0,settlement,MANDIRI,zakat_guest 
+3337,Joy maradona,Web Mobile,Zakat Fitrah,2021-05-12 20:29:11,45000.0,settlement,MANDIRI,zakat_guest 
+3339,M. Afif Aziya,Web Mobile,Zakat Fitrah,2021-05-12 20:33:11,150000.0,settlement,bank_transfer,zakat_guest 
+3341,Fitri junia ningsih,Web Mobile,Zakat Fitrah,2021-05-12 20:38:31,50000.0,settlement,gopay,zakat_guest 
+3343,Irham Farik Akhmad,Web Mobile,Zakat Fitrah,2021-05-12 20:41:23,50000.0,settlement,BNI,zakat_guest 
+3346,Edwin Budi Setiawan,Web Mobile,Zakat Fitrah,2021-05-12 20:45:41,40000.0,settlement,BRI,zakat_guest 
+3348,ENDRI SUPRIYANTO,Web Mobile,Zakat Fitrah,2021-05-12 20:47:13,38000.0,settlement,bank_transfer,zakat_guest 
+3353,Taufiq A Kadir Asseweth,Web Mobile,Zakat Fitrah,2021-05-12 20:50:14,200000.0,settlement,gopay,zakat_guest 
+3354,RAIHAN SYAM RAFSANJANI,Web Mobile,Zakat Fitrah,2021-05-12 20:50:55,20000.0,settlement,gopay,zakat_guest 
+3357,Andrian Novera,Web Mobile,Zakat Fitrah,2021-05-12 20:54:22,70000.0,settlement,bank_transfer,zakat_guest 
+3358,Indradi Tiyas Permana Putra,Web Mobile,Zakat Fitrah,2021-05-12 20:54:39,30000.0,settlement,BRI,zakat_guest 
+3360,Ari Soedibyo,Web Mobile,Zakat Fitrah,2021-05-12 20:55:41,60000.0,settlement,bank_transfer,zakat_guest 
+3363,Gusti maheswara ramadhan Iswadi,Web Mobile,Zakat Fitrah,2021-05-12 20:59:28,75600.0,settlement,bank_transfer,zakat_guest 
+3364,Risma Febriyanti,Web Mobile,Zakat Fitrah,2021-05-12 21:03:13,50000.0,settlement,bank_transfer,zakat_guest 
+3368,Taufik indrawan,Web Mobile,Zakat Fitrah,2021-05-12 21:10:56,100000.0,settlement,bank_transfer,zakat_guest 
+3370,Endah Israhayu,Web Mobile,Zakat Fitrah,2021-05-12 21:11:58,40000.0,settlement,MANDIRI,zakat_guest 
+3373,Maryanto,Web Mobile,Zakat Fitrah,2021-05-12 21:18:23,105000.0,settlement,bank_transfer,zakat_guest 
+3377,YUNIANTO,Web Mobile,Zakat Fitrah,2021-05-12 21:21:51,40000.0,settlement,bank_transfer,zakat_guest 
+3381,Herman Widyatmiko Soeripto,Web Mobile,Zakat Fitrah,2021-05-12 21:27:22,90000.0,settlement,MANDIRI,zakat_guest 
+3382,Nada Sa'adah,Web Mobile,Zakat Fitrah,2021-05-12 21:27:47,25000.0,settlement,bank_transfer,zakat_guest 
+3384,Sheryl alesha Alana Nuril,Web Mobile,Zakat Fitrah,2021-05-12 21:28:24,50000.0,settlement,BRI,zakat_guest 
+3385,DANITA ANGGRANI,Web Mobile,Zakat Fitrah,2021-05-12 21:28:46,500000.0,settlement,gopay,zakat_guest 
+3386,Dony Permadi,Web Mobile,Zakat Fitrah,2021-05-12 21:30:01,50000.0,settlement,bank_transfer,zakat_guest 
+3389,Sheryl alesha Alana Nuril,Web Mobile,Zakat Fitrah,2021-05-12 21:31:58,50000.0,settlement,BRI,zakat_guest 
+3390,Ardian Gentra Hadi Bahari,Web Mobile,Zakat Fitrah,2021-05-12 21:32:27,35000.0,settlement,MANDIRI,zakat_guest 
+3392,Ayu Dini Ekawati,Web Mobile,Zakat Fitrah,2021-05-12 21:36:57,80000.0,settlement,MANDIRI,zakat_guest 
+3394,Muhammad Dahlan A,Web Mobile,Zakat Fitrah,2021-05-12 21:38:45,37500.0,settlement,BNI,zakat_guest 
+3396,Galuh Firmansyah,Web Mobile,Zakat Fitrah,2021-05-12 21:42:34,120000.0,settlement,bank_transfer,zakat_guest 
+3398,Dwi aprianto,Web Mobile,Zakat Fitrah,2021-05-12 21:44:17,80000.0,settlement,bank_transfer,zakat_guest 
+3399,Muhamad Riski,Web Mobile,Zakat Fitrah,2021-05-12 21:49:41,120000.0,settlement,bank_transfer,zakat_guest 
+3403,Tiara,Web Mobile,Zakat Fitrah,2021-05-12 22:00:12,40000.0,settlement,gopay,zakat_guest 
+3409,Egy Bramantya,Web Mobile,Zakat Fitrah,2021-05-12 22:08:04,65000.0,settlement,gopay,zakat_guest 
+3412,Andi Febrianto,Web Mobile,Zakat Fitrah,2021-05-12 22:11:27,70000.0,settlement,BRI,zakat_guest 
+3413,muhamad septian rizki awalludin,Web Mobile,Zakat Fitrah,2021-05-12 22:13:35,75000.0,settlement,bank_transfer,zakat_guest 
+3414,Nizamuddin Ubaidillah,Web Mobile,Zakat Fitrah,2021-05-12 22:14:00,35000.0,settlement,BRI,zakat_guest 
+3415,Edy setiyono,Web Mobile,Zakat Fitrah,2021-05-12 22:14:12,40000.0,settlement,MANDIRI,zakat_guest 
+3416,Deriansyah,Web Mobile,Zakat Fitrah,2021-05-12 22:14:43,50000.0,settlement,bank_transfer,zakat_guest 
+3419,Hamba ALLAH,Web Mobile,Zakat Fitrah,2021-05-12 22:23:51,40000.0,settlement,gopay,zakat_guest 
+3422,Namira,Web Mobile,Zakat Penghasilan,2021-05-12 22:26:24,200000.0,settlement,gopay,zakat_guest 
+3423,Ezra rayyan,Web Mobile,Zakat Fitrah,2021-05-12 22:27:26,35000.0,settlement,MANDIRI,zakat_guest 
+3428,DONI ADI PRIYAMBADA,Web Mobile,Zakat Fitrah,2021-05-12 22:29:46,35000.0,settlement,bank_transfer,zakat_guest 
+3429,Ezra rayyan,Web Mobile,Zakat Fitrah,2021-05-12 22:30:44,35000.0,settlement,MANDIRI,zakat_guest 
+3431,Ezra rayyan,Web Mobile,Zakat Fitrah,2021-05-12 22:32:54,35000.0,settlement,MANDIRI,zakat_guest 
+3432,Syafrinal,Web Mobile,Zakat Fitrah,2021-05-12 22:33:08,37500.0,settlement,MANDIRI,zakat_guest 
+3435,Anton kusnandar,Web Mobile,Zakat Fitrah,2021-05-12 22:36:32,120000.0,settlement,bank_transfer,zakat_guest 
+3436,Syafrinal,Web Mobile,Zakat Fitrah,2021-05-12 22:37:00,37500.0,settlement,MANDIRI,zakat_guest 
+3439,Syafrinal,Web Mobile,Zakat Fitrah,2021-05-12 22:39:53,37500.0,settlement,MANDIRI,zakat_guest 
+3440,Herni Juwita,Web Mobile,Zakat Fitrah,2021-05-12 22:40:33,25000.0,settlement,bank_transfer,zakat_guest 
+3441,Syafrinal,Web Mobile,Zakat Fitrah,2021-05-12 22:42:25,37500.0,settlement,MANDIRI,zakat_guest 
+3442,Firman mohammad ridwan,Web Mobile,Zakat Fitrah,2021-05-12 22:42:44,30000.0,settlement,bank_transfer,zakat_guest 
+3443,Rudy Dharmawan,Web Mobile,Zakat Fitrah,2021-05-12 22:42:48,40000.0,settlement,bank_transfer,zakat_guest 
+3445,Dewi irawati,Web Mobile,Zakat Fitrah,2021-05-12 22:44:03,100000.0,settlement,bank_transfer,zakat_guest 
+3447,Idnul Fitriya,Web Mobile,Zakat Fitrah,2021-05-12 22:44:25,50000.0,settlement,MANDIRI,zakat_guest 
+3451,Bagus,Web Mobile,Zakat Fitrah,2021-05-12 22:57:09,80000.0,settlement,BNI,zakat_guest 
+3456,Muhammad Rizky Andhika,Web Mobile,Zakat Fitrah,2021-05-12 23:07:28,80000.0,settlement,bank_transfer,zakat_guest 
+3458,Fachri Hayat Irfai,Web Mobile,Zakat Fitrah,2021-05-12 23:08:06,50000.0,settlement,gopay,zakat_guest 
+3459,MOHAMMAD FARHAN,Web Mobile,Zakat Fitrah,2021-05-12 23:13:35,40000.0,settlement,bank_transfer,zakat_guest 
+3460,Fachri Hayat Irfai,Web Mobile,Zakat Fitrah,2021-05-12 23:18:44,50000.0,settlement,gopay,zakat_guest 
+3461,Fachri Hayat Irfai,Web Mobile,Zakat Fitrah,2021-05-12 23:21:28,50000.0,settlement,gopay,zakat_guest 
+3462,Aryo,Web Mobile,Zakat Fitrah,2021-05-12 23:21:42,125000.0,settlement,bank_transfer,zakat_guest 
+3469,Fachri Hayat Irfai,Web Mobile,Zakat Fitrah,2021-05-12 23:30:31,50000.0,settlement,gopay,zakat_guest 
+3470,Fatima Cikal,Web Mobile,Zakat Fitrah,2021-05-12 23:30:34,80000.0,settlement,bank_transfer,zakat_guest 
+3476,Fachri Hayat Irfai,Web Mobile,Zakat Fitrah,2021-05-12 23:38:37,50000.0,settlement,gopay,zakat_guest 
+3477,Khudori,Web Mobile,Zakat Fitrah,2021-05-12 23:39:16,100819.0,settlement,Transfer Bank Mandiri Syariah - 7273737377,zakat_guest 
+3481,Fachri Hayat Irfai,Web Mobile,Zakat Fitrah,2021-05-12 23:41:38,50000.0,settlement,gopay,zakat_guest 
+3484,Deddy Suryanto,Web Mobile,Zakat Fitrah,2021-05-12 23:48:12,185000.0,settlement,MANDIRI,zakat_guest 
+3486,Andri Aditya,Web Mobile,Zakat Fitrah,2021-05-12 23:52:22,100000.0,settlement,bank_transfer,zakat_guest 
+3487,Aldo Agustia Chaniago,Web Mobile,Zakat Fitrah,2021-05-12 23:53:41,40000.0,settlement,bank_transfer,zakat_guest 
+3488,Pranaya Yudha,Web Mobile,Zakat Harta,2021-05-12 23:54:15,5000000.0,settlement,MANDIRI,zakat_guest 
+3489,Andy Juliansyah,Web Mobile,Zakat Fitrah,2021-05-13 00:00:58,30000.0,settlement,bank_transfer,zakat_guest 
+3491,Muhammad Kausyar Galih Akbar Bin Achmad Yani,Web Mobile,Zakat Fitrah,2021-05-13 00:06:10,40000.0,settlement,bank_transfer,zakat_guest 
+3496,Muhammad Kausyar Galih Akbar Bin Achmad Yani,Web Mobile,Zakat Fitrah,2021-05-13 00:10:29,40000.0,settlement,bank_transfer,zakat_guest 
+3497,Muhammad Kausyar Galih Akbar Bin Achmad Yani,Web Mobile,Zakat Fitrah,2021-05-13 00:12:26,40000.0,settlement,bank_transfer,zakat_guest 
+3498,"MISWANTO ,NOVIYANI,KENIH,ANISA,KATMAN",Web Mobile,Zakat Fitrah,2021-05-13 00:12:38,175000.0,settlement,bank_transfer,zakat_guest 
+3499,SAPTO NUGROHO,Web Mobile,Zakat Fitrah,2021-05-13 00:13:26,97500.0,settlement,MANDIRI,zakat_guest 
+3500,Muhammad Kausyar Galih Akbar Bin Achmad Yani,Web Mobile,Zakat Fitrah,2021-05-13 00:14:08,40000.0,settlement,bank_transfer,zakat_guest 
+3502,Muhammad Kausyar Galih Akbar Bin Achmad Yani,Web Mobile,Zakat Fitrah,2021-05-13 00:17:48,40000.0,settlement,bank_transfer,zakat_guest 
+3506,Iga hadinata baskara,Web Mobile,Zakat Fitrah,2021-05-13 01:00:37,22500.0,settlement,bank_transfer,zakat_guest 
+3510,Hadiyanti Pratiwi,Web Mobile,Zakat Fitrah,2021-05-13 01:03:40,22500.0,settlement,bank_transfer,zakat_guest 
+3512,yanuar trisnadi,Web Mobile,Zakat Fitrah,2021-05-13 01:12:13,60000.0,settlement,bank_transfer,zakat_guest 
+3515,Singa Pranadi,Web Mobile,Zakat Fitrah,2021-05-13 02:33:59,80000.0,settlement,BRI,zakat_guest 
+3516,Pambudi Elsa Wiguna,Web Mobile,Zakat Fitrah,2021-05-13 02:40:00,80000.0,settlement,BRI,zakat_guest 
+3520,Handito Kusumo,Web Mobile,Zakat Fitrah,2021-05-13 03:32:06,32500.0,settlement,bank_transfer,zakat_guest 
+3521,Kenzo Arrasya Kusumo,Web Mobile,Zakat Fitrah,2021-05-13 03:35:44,32500.0,settlement,bank_transfer,zakat_guest 
+3522,Kenzo Arrasya Kusumo,Web Mobile,Zakat Fitrah,2021-05-13 03:37:41,32500.0,settlement,bank_transfer,zakat_guest 
+3525,Adit,Web Mobile,Zakat Fitrah,2021-05-13 04:10:03,40000.0,settlement,bank_transfer,zakat_guest 
+3527,Hartomo,Web Mobile,Zakat Fitrah,2021-05-13 04:12:47,120000.0,settlement,BNI,zakat_guest 
+3529,Fritz Ahmad Mubarok,Web Mobile,Zakat Fitrah,2021-05-13 04:17:02,50000.0,settlement,BNI,zakat_guest 
+3531,Nora Milasari,Web Mobile,Zakat Harta,2021-05-13 04:41:37,5000000.0,settlement,MANDIRI,zakat_guest 
+3532,RAMDHAN PRAKORSO,Web Mobile,Zakat Fitrah,2021-05-13 04:44:42,50000.0,settlement,bank_transfer,zakat_guest 
+3533,Devi Novita trisatya natsya laras,Web Mobile,Zakat Fitrah,2021-05-13 04:51:12,120000.0,settlement,MANDIRI,zakat_guest 
+3535,Kirana Bening Hutama,Web Mobile,Zakat Fitrah,2021-05-13 05:01:19,40000.0,settlement,bank_transfer,zakat_guest 
+3537,Fitri Supriadi,Web Mobile,Zakat Fitrah,2021-05-13 05:05:17,80000.0,settlement,MANDIRI,zakat_guest 
+3540,Adi Kurniawan : Maharastri Puritasari : Raisha Atiya Ar,Web Mobile,Zakat Fitrah,2021-05-13 05:11:16,120000.0,settlement,bank_transfer,zakat_guest 
+3542,Firdausin Ahlaputra Rahman,Web Mobile,Zakat Fitrah,2021-05-13 05:11:23,30000.0,settlement,BNI,zakat_guest 
+3544,Della Jessica,Web Mobile,Zakat Fitrah,2021-05-13 05:19:39,35000.0,settlement,bank_transfer,zakat_guest 
+3545,Faikar Valor Elvayami,Web Mobile,Zakat Fitrah,2021-05-13 05:29:35,120000.0,settlement,bank_transfer,zakat_guest 
+3546,"piyan nova diansyah
+alisha maliha putri",Web Mobile,Zakat Fitrah,2021-05-13 05:32:51,35000.0,settlement,bank_transfer,zakat_guest 
+3547,Sahawadi,Web Mobile,Zakat Fitrah,2021-05-13 05:32:56,80000.0,settlement,bank_transfer,zakat_guest 
+3550,Rachmat Mulyadi,Web Mobile,Zakat Fitrah,2021-05-13 05:46:42,50000.0,settlement,gopay,zakat_guest 
+3553,Dian Dwi Partilah,Web Mobile,Zakat Fitrah,2021-05-13 05:51:00,40000.0,settlement,bank_transfer,zakat_guest 
+3554,Leni Novita Sari,Web Mobile,Zakat Fitrah,2021-05-13 05:52:57,200000.0,settlement,BNI,zakat_guest 
+3557,Muhhamad sultan hafidzsyah prasetya,Web Mobile,Zakat Fitrah,2021-05-13 06:01:08,50000.0,settlement,bank_transfer,zakat_guest 
+3559,Tri maulana,Web Mobile,Zakat Fitrah,2021-05-13 06:06:39,150000.0,settlement,credit_card,zakat_guest 
+3561,Syamdika,Web Mobile,Zakat Fitrah,2021-05-13 06:07:53,200000.0,settlement,bank_transfer,zakat_guest 
+3562,Nico Ramadika,Web Mobile,Zakat Fitrah,2021-05-13 06:08:22,100000.0,settlement,MANDIRI,zakat_guest 
+3563,Rivan,Web Mobile,Zakat Fitrah,2021-05-13 06:11:06,500000.0,settlement,bank_transfer,zakat_guest 
+3565,Syabiq Abdillah,Web Mobile,Zakat Fitrah,2021-05-13 06:17:40,100000.0,settlement,MANDIRI,zakat_guest 
+3567,Yudista Atmaji,Web Mobile,Zakat Fitrah,2021-05-13 06:21:22,350000.0,settlement,MANDIRI,zakat_guest 
+3568,Robi Febriansyah dan Dayu Meirina Novelia,Web Mobile,Zakat Fitrah,2021-05-13 06:21:34,80000.0,settlement,BRI,zakat_guest 
+3571,Astoyo Jumadi,Web Mobile,Zakat Fitrah,2021-05-13 06:23:35,200000.0,settlement,MANDIRI,zakat_guest 
+3572,aries hilmi,Web Mobile,Zakat Fitrah,2021-05-13 06:24:10,200000.0,settlement,bank_transfer,zakat_guest 
+3573,Bima Putra Bagaskara,Web Mobile,Zakat Fitrah,2021-05-13 06:24:12,50000.0,settlement,bank_transfer,zakat_guest 
+3577,Mohammad Ardhi Sofyanto,Web Mobile,Zakat Fitrah,2021-05-13 06:26:24,50000.0,settlement,MANDIRI,zakat_guest 
+3580,Kemas Budi,Web,Zakat Fitrah,2021-05-13 06:27:46,50000.0,settlement,bank_transfer,zakat_guest 
+3581,Rizki prawira suparto,Web Mobile,Zakat Fitrah,2021-05-13 06:27:49,250000.0,settlement,bank_transfer,zakat_guest 
+3584,Puspita Asri,Web Mobile,Zakat Fitrah,2021-05-13 06:29:50,250000.0,settlement,BNI,zakat_guest 
+3585,Tina handriani,Web Mobile,Zakat Fitrah,2021-05-13 06:29:57,140000.0,settlement,gopay,zakat_guest 
+3586,Fitri gemarawan,Web Mobile,Zakat Fitrah,2021-05-13 06:31:58,50000.0,settlement,bank_transfer,zakat_guest 
+3587,Mahmud alfian,Web Mobile,Zakat Fitrah,2021-05-13 06:32:10,40000.0,settlement,bank_transfer,zakat_guest 
+3588,Cassandra Damayanti,Web Mobile,Zakat Fitrah,2021-05-13 06:33:05,45000.0,settlement,gopay,zakat_guest 
+3590,Agustina Pandan Sari,Web Mobile,Zakat Fitrah,2021-05-13 06:34:10,100000.0,settlement,BNI,zakat_guest 
+3592,Sekizinci fosali konaedi,Web Mobile,Zakat Fitrah,2021-05-13 06:36:32,35000.0,settlement,MANDIRI,zakat_guest 
+3594,Anggun P W,Web Mobile,Zakat Fitrah,2021-05-13 06:37:57,80000.0,settlement,MANDIRI,zakat_guest 
+3596,Sekizinci fosali konaedi,Web Mobile,Zakat Fitrah,2021-05-13 06:39:19,35000.0,settlement,MANDIRI,zakat_guest 
+3598,Rima Wida Jayanti,Web Mobile,Zakat Fitrah,2021-05-13 06:41:18,200000.0,settlement,bank_transfer,zakat_guest 
+3600,Sekizinci fosali konaedi,Web Mobile,Zakat Fitrah,2021-05-13 06:41:38,35000.0,settlement,MANDIRI,zakat_guest 
+3601,Ramadhona,Web Mobile,Zakat Fitrah,2021-05-13 06:43:05,120000.0,settlement,BNI,zakat_guest 
+3602,Sekizinci fosali konaedi,Web Mobile,Zakat Fitrah,2021-05-13 06:43:36,35000.0,settlement,MANDIRI,zakat_guest 
+3605,Ny fatimah,Web Mobile,Zakat Fitrah,2021-05-13 06:47:53,243000.0,settlement,BRI,zakat_guest 
+3606,Entol Firdaus Aunurifki,Web Mobile,Zakat Fitrah,2021-05-13 06:48:13,60000.0,settlement,gopay,zakat_guest 
+3607,Angga G. Nugraha,Web Mobile,Zakat Fitrah,2021-05-13 06:49:24,75000.0,settlement,gopay,zakat_guest 
+3609,Hafiz Faturrachman,Web Mobile,Zakat Fitrah,2021-05-13 06:51:10,45000.0,settlement,bank_transfer,zakat_guest 
+3610,Alivia Rizky Ariyanti,Web Mobile,Zakat Fitrah,2021-05-13 06:52:29,40000.0,settlement,bank_transfer,zakat_guest 
+3611,Alivia Rizky Ariyanti,Web Mobile,Zakat Fitrah,2021-05-13 06:53:49,40000.0,settlement,bank_transfer,zakat_guest 
+3612,Alivia Rizky Ariyanti,Web Mobile,Zakat Fitrah,2021-05-13 06:54:42,40000.0,settlement,bank_transfer,zakat_guest 
+3613,Alivia Rizky Ariyanti,Web Mobile,Zakat Fitrah,2021-05-13 06:55:31,40000.0,settlement,bank_transfer,zakat_guest 
+3614,Alivia Rizky Ariyanti,Web Mobile,Zakat Fitrah,2021-05-13 06:56:36,40000.0,settlement,bank_transfer,zakat_guest 
+3615,Alivia Rizky Ariyanti,Web Mobile,Zakat Fitrah,2021-05-13 06:57:33,40000.0,settlement,bank_transfer,zakat_guest 
+3616,Jefry,Web Mobile,Zakat Fitrah,2021-05-13 06:57:47,50000.0,settlement,bank_transfer,zakat_guest 
+3617,Alivia Rizky Ariyanti,Web Mobile,Zakat Fitrah,2021-05-13 06:58:15,40000.0,settlement,bank_transfer,zakat_guest 
+3618,Anita Remontika,Web Mobile,Zakat Fitrah,2021-05-13 06:59:04,40000.0,settlement,MANDIRI,zakat_guest 
+3619,Zulfiniar Nur Karimah,Web Mobile,Zakat Fitrah,2021-05-13 06:59:09,35000.0,settlement,bank_transfer,zakat_guest 
+3620,Devina Yusuf,Web Mobile,Zakat Fitrah,2021-05-13 06:59:32,40000.0,settlement,BNI,zakat_guest 
+3623,Mochamad yogi nugraha,Web Mobile,Zakat Fitrah,2021-05-13 07:06:35,90000.0,settlement,bank_transfer,zakat_guest 
+3624,Dita,Web Mobile,Zakat Fitrah,2021-05-13 07:07:06,250000.0,settlement,bank_transfer,zakat_guest 
+3625,Adiariansah,Web Mobile,Zakat Fitrah,2021-05-13 07:10:46,40000.0,settlement,BRI,zakat_guest 
+3627,M. Ilham Akbar Matoha,Web Mobile,Zakat Fitrah,2021-05-13 07:18:53,40000.0,settlement,bank_transfer,zakat_guest 
+3629,MUHAMMAD SURYADIN,Web Mobile,Zakat Fitrah,2021-05-13 07:23:31,40000.0,settlement,bank_transfer,zakat_guest 
+3632,Joko susilo,Web Mobile,Zakat Fitrah,2021-05-13 07:24:24,35000.0,settlement,BNI,zakat_guest 
+3636,Ali Lukman,Web Mobile,Zakat Fitrah,2021-05-13 07:45:57,225000.0,settlement,bank_transfer,zakat_guest 
+3639,Irmaanjars@gmail.com,Web Mobile,Zakat Fitrah,2021-05-13 08:12:54,160000.0,settlement,bank_transfer,zakat_guest 
+3644,Arief Hartanto,Web Mobile,Zakat Fitrah,2021-05-13 08:47:28,120000.0,settlement,BRI,zakat_guest 
+3647,KUMARA EVAN JANOTTAMA,Web,Zakat Fitrah,2021-05-13 09:05:44,37500.0,settlement,bank_transfer,zakat_guest 
+3648,Siti Maryuni,Web,Zakat Fitrah,2021-05-13 09:07:55,37500.0,settlement,bank_transfer,zakat_guest 
+3649,Susiyanto,Web,Zakat Fitrah,2021-05-13 09:09:31,37500.0,settlement,bank_transfer,zakat_guest 
+3650,Susiyanto,Web,Zakat Fitrah,2021-05-13 09:11:32,37500.0,settlement,bank_transfer,zakat_guest 
+3651,Susiyanto,Web,Zakat Penghasilan,2021-05-13 09:18:35,1250000.0,settlement,bank_transfer,zakat_guest 
+3656,Tengku Ali Husain,Web Mobile,Zakat Fitrah,2021-05-13 10:17:50,50000.0,settlement,bank_transfer,zakat_guest 
+3658,Tengku Ali Husain,Web Mobile,Zakat Fitrah,2021-05-13 10:25:21,50000.0,settlement,bank_transfer,zakat_guest 
+3663,Indra pradana utama,Web Mobile,Zakat Fitrah,2021-05-13 13:41:01,100000.0,settlement,BNI,zakat_guest 
+3668,Rakhel Kristamurti,Web Mobile,Zakat Penghasilan,2021-05-24 10:19:05,250000.0,settlement,MANDIRI,zakat_guest 
+3673,Hamba Allah,Web Mobile,Zakat Penghasilan,2021-05-26 10:45:53,350000.0,settlement,bank_transfer,zakat_guest 
+3686,Januwar Rahman,Web Mobile,Zakat Penghasilan,2021-05-29 12:06:02,100000.0,settlement,bank_transfer,zakat_guest 
+3695,Viranda Rinantri,Web Mobile,Zakat Penghasilan,2021-06-09 10:33:26,48875.0,settlement,bank_transfer,zakat_guest 
+3701,DIRA,Web Mobile,Zakat Penghasilan,2021-06-18 12:28:17,25000.0,settlement,bank_transfer,zakat_guest 
+3707,Hamba Allah,Web Mobile,Zakat Penghasilan,2021-06-27 21:46:47,650000.0,settlement,bank_transfer,zakat_guest 
+3710,Januwar Rahman,Web Mobile,Zakat Penghasilan,2021-06-29 08:28:48,50000.0,settlement,bank_transfer,zakat_guest 
+3714,Rakhel Kristamurti,Web Mobile,Zakat Penghasilan,2021-06-30 22:26:26,1000000.0,settlement,MANDIRI,zakat_guest 
+3717,HANA ROSHIANA,Web,Zakat Penghasilan,2021-07-02 08:37:17,120000.0,settlement,BRI,zakat_guest 
+3725,Fauzan Muhtadi,Web,Zakat Penghasilan,2021-07-11 10:56:48,298500.0,settlement,bank_transfer,zakat_guest 
+3726,yenny,Web,Zakat Penghasilan,2021-07-22 20:17:19,1000000.0,settlement,MANDIRI,zakat_guest 
+3728,IRHAM PRATAMA PUTRA,Web Mobile,Zakat Penghasilan,2021-07-24 18:15:47,500000.0,settlement,bank_transfer,zakat_guest 
+3741,Singgih Utomo,Web,Zakat Penghasilan,2021-08-06 11:40:36,232000.0,settlement,bank_transfer,zakat_guest 
+3800,Feni Roza,Web Mobile,Zakat Penghasilan,2021-09-11 17:22:24,450000.0,settlement,MANDIRI,zakat_guest 
+3833,I Made Agus Budhi A,Web Mobile,Zakat Penghasilan,2021-10-07 04:45:49,100000.0,settlement,bank_transfer,zakat_guest 
+3841,I Made Agus Budhi A,Web Mobile,Zakat Penghasilan,2021-10-12 04:50:02,80000.0,settlement,bank_transfer,zakat_guest 
+3849,Sugeng Purnomo Fitri Nugroho,Web Mobile,Zakat Penghasilan,2021-10-17 07:50:23,375000.0,settlement,bank_transfer,zakat_guest 
+3885,Hamba Allah,Web Mobile,Zakat Penghasilan,2021-10-24 21:42:46,400000.0,settlement,bank_transfer,zakat_guest 
+3906,Azhar Eka Napiri,Android,Zakat Penghasilan,2021-10-28 20:03:45,60067.0,settlement,Transfer Bank Mandiri Syariah - 7273737377,zakat_guest 
+3913,MAMANG DONASI,CFD v2,Zakat Penghasilan,2021-10-31 12:49:10,750000.0,settlement,BNI,zakat_guest 
+3918,Dinda Putri Nurhaqiki,CFD v2,Zakat Penghasilan,2021-11-01 10:40:07,550000.0,settlement,MANDIRI,zakat_guest 
+3936,Nur Priyanti,CFD v2,Zakat Penghasilan,2021-11-02 11:06:38,188750.0,settlement,MANDIRI,zakat_guest 
+3950,Mochammad Ramdhani,CFD v2,Zakat Penghasilan,2021-11-05 09:48:29,20000.0,settlement,bank_transfer,zakat_guest 
+3952,Viranda Rinantri,CFD v2,Zakat Penghasilan,2021-11-05 16:03:06,52500.0,settlement,bank_transfer,zakat_guest 
+3961,Mochammad rachmandhani,CFD v2,Zakat Penghasilan,2021-11-09 22:37:44,170000.0,settlement,MANDIRI,zakat_guest 
+3976,Firman Maulana,CFD v2,Zakat Penghasilan,2021-11-18 13:31:34,1000000.0,settlement,MANDIRI,zakat_guest 
+3985,Hamba Allah,CFD v2,Zakat Penghasilan,2021-11-25 08:32:32,110275.0,settlement,MANDIRI,zakat_guest 
+3986,Aries Anggoro,Web,Zakat Penghasilan,2021-11-25 11:00:56,316423.0,settlement,BNI,zakat_guest 
+3990,RAMADENY,CFD v2,Zakat Penghasilan,2021-11-26 06:44:01,200000.0,settlement,bank_transfer,zakat_guest 
+4003,Aries Anggoro,Web,Zakat Penghasilan,2021-11-26 18:43:27,43750.0,settlement,BNI,zakat_guest 
+4004,Nadya Salsabila,CFD v2,Zakat Penghasilan,2021-11-26 19:13:55,787500.0,settlement,bank_transfer,zakat_guest 
+4007,Kautsar Irnando,CFD v2,Zakat Penghasilan,2021-11-27 20:01:08,350000.0,settlement,MANDIRI,zakat_guest 
+4008,Putu Berly Calvina Izumi,CFD v2,Zakat Penghasilan,2021-11-28 04:39:06,200000.0,settlement,bank_transfer,zakat_guest 
+4009,Feri yana,CFD v2,Zakat Penghasilan,2021-11-28 04:54:47,100000.0,settlement,BNI,zakat_guest 
+4011,Hamba Allah,CFD v2,Zakat Penghasilan,2021-11-29 10:15:14,100000.0,settlement,BRI,zakat_guest 
+4014,Januwar Rahman,CFD v2,Zakat Penghasilan,2021-11-30 08:33:16,50000.0,settlement,bank_transfer,zakat_guest 
+4016,Irvan Firmansyah,CFD v2,Zakat Penghasilan,2021-11-30 09:52:00,150000.0,settlement,PERMATA,zakat_guest 
+4019,Fraskatia Syahrin,CFD v2,Zakat Penghasilan,2021-11-30 13:10:03,150000.0,settlement,MANDIRI,zakat_guest 
+4028,Dinar Swastika Ardias,CFD v2,Zakat Penghasilan,2021-12-02 21:06:24,345000.0,settlement,bank_transfer,zakat_guest 
+4029,Hamba Allah,CFD v2,Zakat Penghasilan,2021-12-02 23:12:32,350000.0,settlement,bank_transfer,zakat_guest 
+4030,Hamba Allah,CFD v2,Zakat Penghasilan,2021-12-02 23:16:33,480000.0,settlement,bank_transfer,zakat_guest 
+4033,ninis,CFD v2,Zakat Penghasilan,2021-12-03 13:53:49,213000.0,settlement,MANDIRI,zakat_guest 
